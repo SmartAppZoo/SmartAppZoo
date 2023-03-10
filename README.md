@@ -39,6 +39,7 @@ We welcome submissions of issues and pull requests.
 
 SmartAppZoo uses SmartApps from the following repositories (in alphabetical order):
 
+
 [16307vancouver/SmartThingsPublic](https://github.com/16307vancouver/SmartThingsPublic)
 
 [4thjuly/Smartthings-IoT](https://github.com/4thjuly/Smartthings-IoT)
@@ -53,7 +54,7 @@ SmartAppZoo uses SmartApps from the following repositories (in alphabetical orde
 
 [AYapejian/st-smartdash](https://github.com/AYapejian/st-smartdash)
 
-[AdamJacobMuller/SmartThingsPublic](https://github.com/AdamJacobMuller/SmartThingsPublic)      
+[AdamJacobMuller/SmartThingsPublic](https://github.com/AdamJacobMuller/SmartThingsPublic)
 
 [Aelfot/SmartThingsCommunity](https://github.com/Aelfot/SmartThingsCommunity)
 
@@ -73,8 +74,7 @@ SmartAppZoo uses SmartApps from the following repositories (in alphabetical orde
 
 [AntoineGuilbaud/MySmartThings](https://github.com/AntoineGuilbaud/MySmartThings)
 
-[AtlasKY/Smartthings_DataConsistency_Tool](https://github.com/AtlasKY/Smartthings_DataConsisten
-cy_Tool)
+[AtlasKY/Smartthings_DataConsistency_Tool](https://github.com/AtlasKY/Smartthings_DataConsistency_Tool)
 
 [Ayechaw/SmartThings](https://github.com/Ayechaw/SmartThings)
 
@@ -90,11 +90,9 @@ cy_Tool)
 
 [Bio-RoboticsUNAM/SmartThing](https://github.com/Bio-RoboticsUNAM/SmartThing)
 
-[Bio-RoboticsUNAM/SmartThingsPublic-master-](https://github.com/Bio-RoboticsUNAM/SmartThingsPub
-lic-master-)
+[Bio-RoboticsUNAM/SmartThingsPublic-master-](https://github.com/Bio-RoboticsUNAM/SmartThingsPublic-master-)
 
-[BlacKCaT27/SmartThings-Really-Smart-Mailbox](https://github.com/BlacKCaT27/SmartThings-Really-
-Smart-Mailbox)
+[BlacKCaT27/SmartThings-Really-Smart-Mailbox](https://github.com/BlacKCaT27/SmartThings-Really-Smart-Mailbox)
 
 [BluCola/SmartthingsCustomRepo](https://github.com/BluCola/SmartthingsCustomRepo)
 
@@ -102,17 +100,15 @@ Smart-Mailbox)
 
 [BottlecapDave/Smartthings](https://github.com/BottlecapDave/Smartthings)
 
-[BrettSheleski/SmartThings-SmartApp-OAuth-Helper](https://github.com/BrettSheleski/SmartThings-
-SmartApp-OAuth-Helper)
+[BrettSheleski/SmartThings-SmartApp-OAuth-Helper](https://github.com/BrettSheleski/SmartThings-SmartApp-OAuth-Helper)
 
-[BrianJerolleman/Brian-SmartThings](https://github.com/BrianJerolleman/Brian-SmartThings)      
+[BrianJerolleman/Brian-SmartThings](https://github.com/BrianJerolleman/Brian-SmartThings)
 
 [CACgithub/SmartThingsPublic](https://github.com/CACgithub/SmartThingsPublic)
 
 [CNG/smartthings-monitor](https://github.com/CNG/smartthings-monitor)
 
-[CadConsultants/mqtt-bridge-smartthings](https://github.com/CadConsultants/mqtt-bridge-smartthi
-ngs)
+[CadConsultants/mqtt-bridge-smartthings](https://github.com/CadConsultants/mqtt-bridge-smartthings)
 
 [CamSoper/SmartThings-CamSoper](https://github.com/CamSoper/SmartThings-CamSoper)
 
@@ -128,8 +124,7 @@ ngs)
 
 [ClassicTim1/SleepNumberManager](https://github.com/ClassicTim1/SleepNumberManager)
 
-[ClaudioConsolmagno/samsung-smartthings](https://github.com/ClaudioConsolmagno/samsung-smartthi
-ngs)
+[ClaudioConsolmagno/samsung-smartthings](https://github.com/ClaudioConsolmagno/samsung-smartthings)
 
 [CoolAutomation/smartthings](https://github.com/CoolAutomation/smartthings)
 
@@ -139,8 +134,7 @@ ngs)
 
 [CosmicPuppy/SmartThings](https://github.com/CosmicPuppy/SmartThings)
 
-[CosmicPuppy/SmartThings-ButtonControllerWithDim](https://github.com/CosmicPuppy/SmartThings-Bu
-ttonControllerWithDim)
+[CosmicPuppy/SmartThings-ButtonControllerWithDim](https://github.com/CosmicPuppy/SmartThings-ButtonControllerWithDim)
 
 [Cuixe/smartthings](https://github.com/Cuixe/smartthings)
 
@@ -160,13 +154,11 @@ ttonControllerWithDim)
 
 [DarwinsDen/Demand-Manager](https://github.com/DarwinsDen/Demand-Manager)
 
-[DarwinsDen/Tesla-Powerwall-Manager](https://github.com/DarwinsDen/Tesla-Powerwall-Manager)    
+[DarwinsDen/Tesla-Powerwall-Manager](https://github.com/DarwinsDen/Tesla-Powerwall-Manager)
 
-[DaveGut/DEPRECATED-SmartThings_Samsung-WiFi-Audio-Unofficial](https://github.com/DaveGut/DEPRE
-CATED-SmartThings_Samsung-WiFi-Audio-Unofficial)
+[DaveGut/DEPRECATED-SmartThings_Samsung-WiFi-Audio-Unofficial](https://github.com/DaveGut/DEPRECATED-SmartThings_Samsung-WiFi-Audio-Unofficial)
 
-[DaveGut/DEPRECATED-TP-Link-SmartThings](https://github.com/DaveGut/DEPRECATED-TP-Link-SmartThi
-ngs)
+[DaveGut/DEPRECATED-TP-Link-SmartThings](https://github.com/DaveGut/DEPRECATED-TP-Link-SmartThings)
 
 [DaveGut/bleBox-SmartThings](https://github.com/DaveGut/bleBox-SmartThings)
 
@@ -186,8 +178,7 @@ ngs)
 
 [FireAcidAP/SmartThingsPublic](https://github.com/FireAcidAP/SmartThingsPublic)
 
-[FirePanther/Control-Smartthings-Samsung-TVs](https://github.com/FirePanther/Control-Smartthing
-s-Samsung-TVs)
+[FirePanther/Control-Smartthings-Samsung-TVs](https://github.com/FirePanther/Control-Smartthings-Samsung-TVs)
 
 [FireyProtons/FP_SmartThings](https://github.com/FireyProtons/FP_SmartThings)
 
@@ -199,8 +190,7 @@ s-Samsung-TVs)
 
 [Gavcol7/SmartThings](https://github.com/Gavcol7/SmartThings)
 
-[Git-Chuck/smartthings-hunterdouglasplatinum](https://github.com/Git-Chuck/smartthings-hunterdo
-uglasplatinum)
+[Git-Chuck/smartthings-hunterdouglasplatinum](https://github.com/Git-Chuck/smartthings-hunterdouglasplatinum)
 
 [Goruti/SmartThings](https://github.com/Goruti/SmartThings)
 
@@ -226,10 +216,9 @@ uglasplatinum)
 
 [JasonBSteele/SmartThings](https://github.com/JasonBSteele/SmartThings)
 
-[JayUK/SmartThings-ControlSwitchViaURL](https://github.com/JayUK/SmartThings-ControlSwitchViaUR
-L)
+[JayUK/SmartThings-ControlSwitchViaURL](https://github.com/JayUK/SmartThings-ControlSwitchViaURL)
 
-[JayUK/SmartThings-VirtualThermostat](https://github.com/JayUK/SmartThings-VirtualThermostat)  
+[JayUK/SmartThings-VirtualThermostat](https://github.com/JayUK/SmartThings-VirtualThermostat)
 
 [Jed-Giblin/SmartThingsPublic](https://github.com/Jed-Giblin/SmartThingsPublic)
 
@@ -237,8 +226,7 @@ L)
 
 [JoeCraddock/SmartApps](https://github.com/JoeCraddock/SmartApps)
 
-[JoeCraddock/SmartThings-Simple-Rules-Engine](https://github.com/JoeCraddock/SmartThings-Simple
--Rules-Engine)
+[JoeCraddock/SmartThings-Simple-Rules-Engine](https://github.com/JoeCraddock/SmartThings-Simple-Rules-Engine)
 
 [JohnRucker/CoopBoss-H3Vx](https://github.com/JohnRucker/CoopBoss-H3Vx)
 
@@ -250,7 +238,7 @@ L)
 
 [Justar818/Smartthings-](https://github.com/Justar818/Smartthings-)
 
-[JustinNale/JustinNale-Smartthings](https://github.com/JustinNale/JustinNale-Smartthings)      
+[JustinNale/JustinNale-Smartthings](https://github.com/JustinNale/JustinNale-Smartthings)
 
 [KHouse75/SmartThings-IDE](https://github.com/KHouse75/SmartThings-IDE)
 
@@ -264,49 +252,37 @@ L)
 
 [KristopherKubicki/device-foobot](https://github.com/KristopherKubicki/device-foobot)
 
-[KristopherKubicki/device-type.zwave-motion](https://github.com/KristopherKubicki/device-type.z
-wave-motion)
+[KristopherKubicki/device-type.zwave-motion](https://github.com/KristopherKubicki/device-type.zwave-motion)
 
-[KristopherKubicki/device-yamaha-rx](https://github.com/KristopherKubicki/device-yamaha-rx)    
+[KristopherKubicki/device-yamaha-rx](https://github.com/KristopherKubicki/device-yamaha-rx)
 
-[KristopherKubicki/plantlink-smartapps](https://github.com/KristopherKubicki/plantlink-smartapp
-s)
+[KristopherKubicki/plantlink-smartapps](https://github.com/KristopherKubicki/plantlink-smartapps)
 
 [KristopherKubicki/smartapp-beep](https://github.com/KristopherKubicki/smartapp-beep)
 
-[KristopherKubicki/smartapp-close-the-garage](https://github.com/KristopherKubicki/smartapp-clo
-se-the-garage)
+[KristopherKubicki/smartapp-close-the-garage](https://github.com/KristopherKubicki/smartapp-close-the-garage)
 
-[KristopherKubicki/smartapp-color-temperature](https://github.com/KristopherKubicki/smartapp-co
-lor-temperature)
+[KristopherKubicki/smartapp-color-temperature](https://github.com/KristopherKubicki/smartapp-color-temperature)
 
-[KristopherKubicki/smartapp-flicker](https://github.com/KristopherKubicki/smartapp-flicker)    
+[KristopherKubicki/smartapp-flicker](https://github.com/KristopherKubicki/smartapp-flicker)
 
-[KristopherKubicki/smartapp-http-presence](https://github.com/KristopherKubicki/smartapp-http-p
-resence)
+[KristopherKubicki/smartapp-http-presence](https://github.com/KristopherKubicki/smartapp-http-presence)
 
-[KristopherKubicki/smartapp-input-select](https://github.com/KristopherKubicki/smartapp-input-s
-elect)
+[KristopherKubicki/smartapp-input-select](https://github.com/KristopherKubicki/smartapp-input-select)
 
-[KristopherKubicki/smartapp-light-helper](https://github.com/KristopherKubicki/smartapp-light-h
-elper)
+[KristopherKubicki/smartapp-light-helper](https://github.com/KristopherKubicki/smartapp-light-helper)
 
-[KristopherKubicki/smartapp-nightlight](https://github.com/KristopherKubicki/smartapp-nightligh
-t)
+[KristopherKubicki/smartapp-nightlight](https://github.com/KristopherKubicki/smartapp-nightlight)
 
-[KristopherKubicki/smartapp-osram-reset](https://github.com/KristopherKubicki/smartapp-osram-re
-set)
+[KristopherKubicki/smartapp-osram-reset](https://github.com/KristopherKubicki/smartapp-osram-reset)
 
-[KristopherKubicki/smartapp-turn-off-with-motion](https://github.com/KristopherKubicki/smartapp
--turn-off-with-motion)
+[KristopherKubicki/smartapp-turn-off-with-motion](https://github.com/KristopherKubicki/smartapp-turn-off-with-motion)
 
-[KristopherKubicki/smartapp-wasp-in-a-box](https://github.com/KristopherKubicki/smartapp-wasp-i
-n-a-box)
+[KristopherKubicki/smartapp-wasp-in-a-box](https://github.com/KristopherKubicki/smartapp-wasp-in-a-box)
 
-[KurtSanders/MySmartThingsPersonal](https://github.com/KurtSanders/MySmartThingsPersonal)      
+[KurtSanders/MySmartThingsPersonal](https://github.com/KurtSanders/MySmartThingsPersonal)
 
-[La0xiu/SmartThings_Cloud-Based_TP-Link-Plugs-Switches-Bulbs](https://github.com/La0xiu/SmartTh
-ings_Cloud-Based_TP-Link-Plugs-Switches-Bulbs)
+[La0xiu/SmartThings_Cloud-Based_TP-Link-Plugs-Switches-Bulbs](https://github.com/La0xiu/SmartThings_Cloud-Based_TP-Link-Plugs-Switches-Bulbs)
 
 [Ledridge/SmartThings](https://github.com/Ledridge/SmartThings)
 
@@ -326,16 +302,13 @@ ings_Cloud-Based_TP-Link-Plugs-Switches-Bulbs)
 
 [MadMouse/SmartThings](https://github.com/MadMouse/SmartThings)
 
-[ManuRiver/DSC-alarm-for-Hubitat-using-nodejs-thru-serial-TI-100](https://github.com/ManuRiver/
-DSC-alarm-for-Hubitat-using-nodejs-thru-serial-TI-100)
+[ManuRiver/DSC-alarm-for-Hubitat-using-nodejs-thru-serial-TI-100](https://github.com/ManuRiver/DSC-alarm-for-Hubitat-using-nodejs-thru-serial-TI-100)
 
-[MarianMitschke/Smartthings-Fritz-DECT-200-Controller](https://github.com/MarianMitschke/Smartt
-hings-Fritz-DECT-200-Controller)
+[MarianMitschke/Smartthings-Fritz-DECT-200-Controller](https://github.com/MarianMitschke/Smartthings-Fritz-DECT-200-Controller)
 
-[Mariano-Github/Simple-Event-Logger-SmartApp](https://github.com/Mariano-Github/Simple-Event-Lo
-gger-SmartApp)
+[Mariano-Github/Simple-Event-Logger-SmartApp](https://github.com/Mariano-Github/Simple-Event-Logger-SmartApp)
 
-[Mariano-Github/Smartthings-smartapp](https://github.com/Mariano-Github/Smartthings-smartapp)  
+[Mariano-Github/Smartthings-smartapp](https://github.com/Mariano-Github/Smartthings-smartapp)
 
 [Mark52r/smartthings_hub](https://github.com/Mark52r/smartthings_hub)
 
@@ -343,12 +316,11 @@ gger-SmartApp)
 
 [Mavrrick/ArloAssistant](https://github.com/Mavrrick/ArloAssistant)
 
-[Mavrrick/Smartthings-by-Mavrrick](https://github.com/Mavrrick/Smartthings-by-Mavrrick)        
+[Mavrrick/Smartthings-by-Mavrrick](https://github.com/Mavrrick/Smartthings-by-Mavrrick)
 
 [Mdleal/smartthings](https://github.com/Mdleal/smartthings)
 
-[Mellit7/Smartthings-SqueezeBox-Control](https://github.com/Mellit7/Smartthings-SqueezeBox-Cont
-rol)
+[Mellit7/Smartthings-SqueezeBox-Control](https://github.com/Mellit7/Smartthings-SqueezeBox-Control)
 
 [MengshanChen/SmartThings](https://github.com/MengshanChen/SmartThings)
 
@@ -356,8 +328,7 @@ rol)
 
 [Mikebru10/SmartThingsPublic](https://github.com/Mikebru10/SmartThingsPublic)
 
-[MonicaPintoAlarcon/cursoIoTApplications](https://github.com/MonicaPintoAlarcon/cursoIoTApplica
-tions)
+[MonicaPintoAlarcon/cursoIoTApplications](https://github.com/MonicaPintoAlarcon/cursoIoTApplications)
 
 [MrMatt57/SmartThings](https://github.com/MrMatt57/SmartThings)
 
@@ -367,8 +338,7 @@ tions)
 
 [Nomad-Tech/DaSmartThings](https://github.com/Nomad-Tech/DaSmartThings)
 
-[NonLogicalDev/lib.SmartthingsExtensions](https://github.com/NonLogicalDev/lib.SmartthingsExten
-sions)
+[NonLogicalDev/lib.SmartthingsExtensions](https://github.com/NonLogicalDev/lib.SmartthingsExtensions)
 
 [NotQuiteAdam/SmartThings](https://github.com/NotQuiteAdam/SmartThings)
 
@@ -386,15 +356,13 @@ sions)
 
 [Pacman45/My-Smartthings-Apps](https://github.com/Pacman45/My-Smartthings-Apps)
 
-[PeterLarsen-CPH/HallwayLight-for-SmartThings](https://github.com/PeterLarsen-CPH/HallwayLight-
-for-SmartThings)
+[PeterLarsen-CPH/HallwayLight-for-SmartThings](https://github.com/PeterLarsen-CPH/HallwayLight-for-SmartThings)
 
 [Petezah/SmartThings](https://github.com/Petezah/SmartThings)
 
 [PhilDye/loop-energy](https://github.com/PhilDye/loop-energy)
 
-[PockyBum522/smartthings_LAN_get_requester_button_controller](https://github.com/PockyBum522/sm
-artthings_LAN_get_requester_button_controller)
+[PockyBum522/smartthings_LAN_get_requester_button_controller](https://github.com/PockyBum522/smartthings_LAN_get_requester_button_controller)
 
 [Potturusoft/MySmartThings](https://github.com/Potturusoft/MySmartThings)
 
@@ -410,8 +378,7 @@ artthings_LAN_get_requester_button_controller)
 
 [RobinShipston/Tesla-Powerwall](https://github.com/RobinShipston/Tesla-Powerwall)
 
-[RodrigoExperthome/SmartThingsExpertHome](https://github.com/RodrigoExperthome/SmartThingsExper
-tHome)
+[RodrigoExperthome/SmartThingsExpertHome](https://github.com/RodrigoExperthome/SmartThingsExpertHome)
 
 [RogerSelwyn/SmartThings](https://github.com/RogerSelwyn/SmartThings)
 
@@ -419,8 +386,7 @@ tHome)
 
 [Rooks103/MattyP-SmartApps](https://github.com/Rooks103/MattyP-SmartApps)
 
-[RudeDog69/SmartThings_Humidifier_Control](https://github.com/RudeDog69/SmartThings_Humidifier_
-Control)
+[RudeDog69/SmartThings_Humidifier_Control](https://github.com/RudeDog69/SmartThings_Humidifier_Control)
 
 [RudiP/SmartThingsRudi](https://github.com/RudiP/SmartThingsRudi)
 
@@ -436,7 +402,7 @@ Control)
 
 [SANdood/Ecobee-Suite](https://github.com/SANdood/Ecobee-Suite)
 
-[SANdood/Green-Smart-HW-Recirculator](https://github.com/SANdood/Green-Smart-HW-Recirculator)  
+[SANdood/Green-Smart-HW-Recirculator](https://github.com/SANdood/Green-Smart-HW-Recirculator)
 
 [SANdood/LEDStatusManager](https://github.com/SANdood/LEDStatusManager)
 
@@ -456,8 +422,7 @@ Control)
 
 [SmartThingsCommunity/Code](https://github.com/SmartThingsCommunity/Code)
 
-[SmartThingsCommunity/SmartThingsPublic](https://github.com/SmartThingsCommunity/SmartThingsPub
-lic)
+[SmartThingsCommunity/SmartThingsPublic](https://github.com/SmartThingsCommunity/SmartThingsPublic)
 
 [SmartThingsUle/DLNA-PLAYER](https://github.com/SmartThingsUle/DLNA-PLAYER)
 
@@ -471,13 +436,11 @@ lic)
 
 [Spinningbull/iotplayground](https://github.com/Spinningbull/iotplayground)
 
-[StackStorm-Exchange/stackstorm-smartthings](https://github.com/StackStorm-Exchange/stackstorm-
-smartthings)
+[StackStorm-Exchange/stackstorm-smartthings](https://github.com/StackStorm-Exchange/stackstorm-smartthings)
 
-[StevanWarwick/Thermostat-Setpoint-Limits](https://github.com/StevanWarwick/Thermostat-Setpoint
--Limits)
+[StevanWarwick/Thermostat-Setpoint-Limits](https://github.com/StevanWarwick/Thermostat-Setpoint-Limits)
 
-[SteveTheGeekHA/MagicCubeSmartapp](https://github.com/SteveTheGeekHA/MagicCubeSmartapp)        
+[SteveTheGeekHA/MagicCubeSmartapp](https://github.com/SteveTheGeekHA/MagicCubeSmartapp)
 
 [StevenJonSmith/SmartThings](https://github.com/StevenJonSmith/SmartThings)
 
@@ -489,8 +452,7 @@ smartthings)
 
 [StrykerSKS/SmartThingsTracker](https://github.com/StrykerSKS/SmartThingsTracker)
 
-[StuRams/Cloud-Based_TP-Link-to-SmartThings-Integration](https://github.com/StuRams/Cloud-Based
-_TP-Link-to-SmartThings-Integration)
+[StuRams/Cloud-Based_TP-Link-to-SmartThings-Integration](https://github.com/StuRams/Cloud-Based_TP-Link-to-SmartThings-Integration)
 
 [Tallykool/TP-Link-SmartThings](https://github.com/Tallykool/TP-Link-SmartThings)
 
@@ -498,26 +460,23 @@ _TP-Link-to-SmartThings-Integration)
 
 [TehSmartThing/SmartApps](https://github.com/TehSmartThing/SmartApps)
 
-[TekniskSupport/ST-HA-Multi-button-remote](https://github.com/TekniskSupport/ST-HA-Multi-button
--remote)
+[TekniskSupport/ST-HA-Multi-button-remote](https://github.com/TekniskSupport/ST-HA-Multi-button-remote)
 
 [TekniskSupport/SmartThings](https://github.com/TekniskSupport/SmartThings)
 
 [TheCase/SmartThings](https://github.com/TheCase/SmartThings)
 
-[TheFuzz4/SmartThingsSplunkLogger](https://github.com/TheFuzz4/SmartThingsSplunkLogger)        
+[TheFuzz4/SmartThingsSplunkLogger](https://github.com/TheFuzz4/SmartThingsSplunkLogger)
 
-[TheHomeRemote/HomeRemote.SmartApp](https://github.com/TheHomeRemote/HomeRemote.SmartApp)      
+[TheHomeRemote/HomeRemote.SmartApp](https://github.com/TheHomeRemote/HomeRemote.SmartApp)
 
 [Toliver182/SmartThings-Kodi](https://github.com/Toliver182/SmartThings-Kodi)
 
-[Toliver182/SmartThings-KodiControl-Callback](https://github.com/Toliver182/SmartThings-KodiCon
-trol-Callback)
+[Toliver182/SmartThings-KodiControl-Callback](https://github.com/Toliver182/SmartThings-KodiControl-Callback)
 
 [TomMirf/SmartThings](https://github.com/TomMirf/SmartThings)
 
-[TomerFi/home_assistant_smartthings_bridge](https://github.com/TomerFi/home_assistant_smartthin
-gs_bridge)
+[TomerFi/home_assistant_smartthings_bridge](https://github.com/TomerFi/home_assistant_smartthings_bridge)
 
 [TopherSavoie/SmartThings_ULM](https://github.com/TopherSavoie/SmartThings_ULM)
 
@@ -543,10 +502,9 @@ gs_bridge)
 
 [abcvalenti/check-if-its-locked](https://github.com/abcvalenti/check-if-its-locked)
 
-[aberkeme/AHB_SmartThings_SmartApps_AutoLock](https://github.com/aberkeme/AHB_SmartThings_Smart
-Apps_AutoLock)
+[aberkeme/AHB_SmartThings_SmartApps_AutoLock](https://github.com/aberkeme/AHB_SmartThings_SmartApps_AutoLock)
 
-[abethcrane/ms-band-smartthings-tile](https://github.com/abethcrane/ms-band-smartthings-tile)  
+[abethcrane/ms-band-smartthings-tile](https://github.com/abethcrane/ms-band-smartthings-tile)
 
 [abuttino/SmartThingsCustom](https://github.com/abuttino/SmartThingsCustom)
 
@@ -554,8 +512,7 @@ Apps_AutoLock)
 
 [adamahrens/smart-apps](https://github.com/adamahrens/smart-apps)
 
-[adamclark-dev/smartthings-text-to-speech](https://github.com/adamclark-dev/smartthings-text-to
--speech)
+[adamclark-dev/smartthings-text-to-speech](https://github.com/adamclark-dev/smartthings-text-to-speech)
 
 [adamkempenich/Simple-Sprinklers](https://github.com/adamkempenich/Simple-Sprinklers)
 
@@ -575,36 +532,31 @@ Apps_AutoLock)
 
 [aduyng/smatch-switch-for-toilet](https://github.com/aduyng/smatch-switch-for-toilet)
 
-[aduyng/smatthings-report-sensor-values-to-firebase](https://github.com/aduyng/smatthings-repor
-t-sensor-values-to-firebase)
+[aduyng/smatthings-report-sensor-values-to-firebase](https://github.com/aduyng/smatthings-report-sensor-values-to-firebase)
 
 [ady624/HomeCloudHub](https://github.com/ady624/HomeCloudHub)
 
 [agent511/SmartThingsSaved](https://github.com/agent511/SmartThingsSaved)
 
-[ajcarpenter/smartthings-boiler-switch](https://github.com/ajcarpenter/smartthings-boiler-switc
-h)
+[ajcarpenter/smartthings-boiler-switch](https://github.com/ajcarpenter/smartthings-boiler-switch)
 
 [ajpri/Ill-be-back-SA](https://github.com/ajpri/Ill-be-back-SA)
 
 [ajpri/UselessSmartApp](https://github.com/ajpri/UselessSmartApp)
 
-[ajvwhite/homebridge-smartthings-routine-triggers](https://github.com/ajvwhite/homebridge-smart
-things-routine-triggers)
+[ajvwhite/homebridge-smartthings-routine-triggers](https://github.com/ajvwhite/homebridge-smartthings-routine-triggers)
 
 [akihamalainen/SmartThings](https://github.com/akihamalainen/SmartThings)
 
-[alacercogitatus/smartthings_splunk](https://github.com/alacercogitatus/smartthings_splunk)    
+[alacercogitatus/smartthings_splunk](https://github.com/alacercogitatus/smartthings_splunk)
 
 [alainmenag/SmartThings](https://github.com/alainmenag/SmartThings)
 
 [alexfu/smartthings](https://github.com/alexfu/smartthings)
 
-[alexgrahamuk/smartthings-slack-reporter](https://github.com/alexgrahamuk/smartthings-slack-rep
-orter)
+[alexgrahamuk/smartthings-slack-reporter](https://github.com/alexgrahamuk/smartthings-slack-reporter)
 
-[alisdairjsmyth/smartthings-ambiclimate](https://github.com/alisdairjsmyth/smartthings-ambiclim
-ate)
+[alisdairjsmyth/smartthings-ambiclimate](https://github.com/alisdairjsmyth/smartthings-ambiclimate)
 
 [allandin/TeslaChargePortOpener](https://github.com/allandin/TeslaChargePortOpener)
 
@@ -614,8 +566,7 @@ ate)
 
 [alyc100/SmartThingsBETA](https://github.com/alyc100/SmartThingsBETA)
 
-[andersonwembleyposavatz/SmartThingsPrivate](https://github.com/andersonwembleyposavatz/SmartTh
-ingsPrivate)
+[andersonwembleyposavatz/SmartThingsPrivate](https://github.com/andersonwembleyposavatz/SmartThingsPrivate)
 
 [anderssv/smartthings-code](https://github.com/anderssv/smartthings-code)
 
@@ -639,8 +590,7 @@ ingsPrivate)
 
 [appzer/smartapp.pushsafer](https://github.com/appzer/smartapp.pushsafer)
 
-[arcreative/homebridge-smartthings-routine](https://github.com/arcreative/homebridge-smartthing
-s-routine)
+[arcreative/homebridge-smartthings-routine](https://github.com/arcreative/homebridge-smartthings-routine)
 
 [arishtjain/smartThings-xooa](https://github.com/arishtjain/smartThings-xooa)
 
@@ -650,7 +600,7 @@ s-routine)
 
 [aromka/myqcontroller](https://github.com/aromka/myqcontroller)
 
-[arustandi/homebridge-smartthings](https://github.com/arustandi/homebridge-smartthings)        
+[arustandi/homebridge-smartthings](https://github.com/arustandi/homebridge-smartthings)
 
 [arvonth/at-home-dark](https://github.com/arvonth/at-home-dark)
 
@@ -670,11 +620,11 @@ s-routine)
 
 [augoisms/smartthings](https://github.com/augoisms/smartthings)
 
-[austinrfnd/SmartThingsSeinfelder](https://github.com/austinrfnd/SmartThingsSeinfelder)        
+[austinrfnd/SmartThingsSeinfelder](https://github.com/austinrfnd/SmartThingsSeinfelder)
 
 [austinrfnd/StrangerThingsSmartThings](https://github.com/austinrfnd/StrangerThingsSmartThings)
 
-[automaton82/st-precise-thermostat](https://github.com/automaton82/st-precise-thermostat)      
+[automaton82/st-precise-thermostat](https://github.com/automaton82/st-precise-thermostat)
 
 [auual128/SmartThingsPublic](https://github.com/auual128/SmartThingsPublic)
 
@@ -682,22 +632,19 @@ s-routine)
 
 [ayeshakr/Monitor](https://github.com/ayeshakr/Monitor)
 
-[azhurb/smartthings-advanced-virtual-thermostat](https://github.com/azhurb/smartthings-advanced
--virtual-thermostat)
+[azhurb/smartthings-advanced-virtual-thermostat](https://github.com/azhurb/smartthings-advanced-virtual-thermostat)
 
 [baknayeon/smartvisual](https://github.com/baknayeon/smartvisual)
 
 [baldeagle072/SmartThingsOther](https://github.com/baldeagle072/SmartThingsOther)
 
-[baldeagle072/smartthings-the_one_thermostat](https://github.com/baldeagle072/smartthings-the_o
-ne_thermostat)
+[baldeagle072/smartthings-the_one_thermostat](https://github.com/baldeagle072/smartthings-the_one_thermostat)
 
-[baldeagle072/thermostat-setpoint-manager](https://github.com/baldeagle072/thermostat-setpoint-
-manager)
+[baldeagle072/thermostat-setpoint-manager](https://github.com/baldeagle072/thermostat-setpoint-manager)
 
-[barabba9174/SmartThingsPublicOld](https://github.com/barabba9174/SmartThingsPublicOld)        
+[barabba9174/SmartThingsPublicOld](https://github.com/barabba9174/SmartThingsPublicOld)
 
-[barabba9174/Smartthings-barabba9174](https://github.com/barabba9174/Smartthings-barabba9174)  
+[barabba9174/Smartthings-barabba9174](https://github.com/barabba9174/Smartthings-barabba9174)
 
 [barmst02/MySmartThings](https://github.com/barmst02/MySmartThings)
 
@@ -717,15 +664,13 @@ manager)
 
 [bdwilson/SEG-Logger](https://github.com/bdwilson/SEG-Logger)
 
-[bdwilson/SmartThings-GeoHopper-Presence](https://github.com/bdwilson/SmartThings-GeoHopper-Pre
-sence)
+[bdwilson/SmartThings-GeoHopper-Presence](https://github.com/bdwilson/SmartThings-GeoHopper-Presence)
 
-[bdwilson/SmartThings-TotalConnect-Device](https://github.com/bdwilson/SmartThings-TotalConnect
--Device)
+[bdwilson/SmartThings-TotalConnect-Device](https://github.com/bdwilson/SmartThings-TotalConnect-Device)
 
-[bdwilson/ThingSpeak-Energy-Logger](https://github.com/bdwilson/ThingSpeak-Energy-Logger)      
+[bdwilson/ThingSpeak-Energy-Logger](https://github.com/bdwilson/ThingSpeak-Energy-Logger)
 
-[beckyricha/SmartThings-TV-Channels](https://github.com/beckyricha/SmartThings-TV-Channels)    
+[beckyricha/SmartThings-TV-Channels](https://github.com/beckyricha/SmartThings-TV-Channels)
 
 [behm/smartapps](https://github.com/behm/smartapps)
 
@@ -739,8 +684,7 @@ sence)
 
 [bigjuanpa/Work](https://github.com/bigjuanpa/Work)
 
-[bigpunk6/smartapp.pump.freeze.protection](https://github.com/bigpunk6/smartapp.pump.freeze.pro
-tection)
+[bigpunk6/smartapp.pump.freeze.protection](https://github.com/bigpunk6/smartapp.pump.freeze.protection)
 
 [bigworm76/SmartThingsPublic](https://github.com/bigworm76/SmartThingsPublic)
 
@@ -748,21 +692,21 @@ tection)
 
 [billnapier/smartthings](https://github.com/billnapier/smartthings)
 
-[billsq/smartthings-cambridge-audio](https://github.com/billsq/smartthings-cambridge-audio)    
+[billsq/smartthings-cambridge-audio](https://github.com/billsq/smartthings-cambridge-audio)
 
-[billsq/smartthings-denon-avr-2017](https://github.com/billsq/smartthings-denon-avr-2017)      
+[billsq/smartthings-denon-avr-2017](https://github.com/billsq/smartthings-denon-avr-2017)
 
 [binhton/SmartThings-Apps](https://github.com/binhton/SmartThings-Apps)
 
 [biocomp/EcoNet](https://github.com/biocomp/EcoNet)
 
-[bkeifer/smartapp.log-to-graphite](https://github.com/bkeifer/smartapp.log-to-graphite)        
+[bkeifer/smartapp.log-to-graphite](https://github.com/bkeifer/smartapp.log-to-graphite)
 
 [bkeifer/smartapp.summon-the-dog](https://github.com/bkeifer/smartapp.summon-the-dog)
 
 [bkeifer/smartthings](https://github.com/bkeifer/smartthings)
 
-[blakebuck/ST-Front-Light-Automation](https://github.com/blakebuck/ST-Front-Light-Automation)  
+[blakebuck/ST-Front-Light-Automation](https://github.com/blakebuck/ST-Front-Light-Automation)
 
 [blaksec/SmartThingsPublic](https://github.com/blaksec/SmartThingsPublic)
 
@@ -792,19 +736,17 @@ tection)
 
 [bravenel/Lutron](https://github.com/bravenel/Lutron)
 
-[braytonstafford/google-assistant-relay](https://github.com/braytonstafford/google-assistant-re
-lay)
+[braytonstafford/google-assistant-relay](https://github.com/braytonstafford/google-assistant-relay)
 
 [brbarret/InsteonIntegrationREST](https://github.com/brbarret/InsteonIntegrationREST)
 
-[brbeaird/SmartThings_SenseMonitor](https://github.com/brbeaird/SmartThings_SenseMonitor)      
+[brbeaird/SmartThings_SenseMonitor](https://github.com/brbeaird/SmartThings_SenseMonitor)
 
-[brbeaird/SmartThings_WeatherAlarm](https://github.com/brbeaird/SmartThings_WeatherAlarm)      
+[brbeaird/SmartThings_WeatherAlarm](https://github.com/brbeaird/SmartThings_WeatherAlarm)
 
 [breity55/SmartThings](https://github.com/breity55/SmartThings)
 
-[brendanSapience/Samsung-Smartthings-Custom-Rest-API](https://github.com/brendanSapience/Samsun
-g-Smartthings-Custom-Rest-API)
+[brendanSapience/Samsung-Smartthings-Custom-Rest-API](https://github.com/brendanSapience/Samsung-Smartthings-Custom-Rest-API)
 
 [brentmaxwell/SmartThings](https://github.com/brentmaxwell/SmartThings)
 
@@ -812,7 +754,7 @@ g-Smartthings-Custom-Rest-API)
 
 [brlodi/miles](https://github.com/brlodi/miles)
 
-[brockwddb/SmartThings-Mode-By-Day](https://github.com/brockwddb/SmartThings-Mode-By-Day)      
+[brockwddb/SmartThings-Mode-By-Day](https://github.com/brockwddb/SmartThings-Mode-By-Day)
 
 [broox/smart-things-apps](https://github.com/broox/smart-things-apps)
 
@@ -822,15 +764,13 @@ g-Smartthings-Custom-Rest-API)
 
 [bspranger/WaterHeaterControl](https://github.com/bspranger/WaterHeaterControl)
 
-[btforrest/mitchpond-SmartThingsPublic2](https://github.com/btforrest/mitchpond-SmartThingsPubl
-ic2)
+[btforrest/mitchpond-SmartThingsPublic2](https://github.com/btforrest/mitchpond-SmartThingsPublic2)
 
 [budney/home-energy-logger](https://github.com/budney/home-energy-logger)
 
 [buzzkc/SmartThingsPublic](https://github.com/buzzkc/SmartThingsPublic)
 
-[caesarsghost/device-type.condor4monitor](https://github.com/caesarsghost/device-type.condor4mo
-nitor)
+[caesarsghost/device-type.condor4monitor](https://github.com/caesarsghost/device-type.condor4monitor)
 
 [caglar10ur/SmartThings](https://github.com/caglar10ur/SmartThings)
 
@@ -846,8 +786,7 @@ nitor)
 
 [caseymqn/SmartThings](https://github.com/caseymqn/SmartThings)
 
-[casper-gh/smartapp-turn-off-with-motion-with-threshold](https://github.com/casper-gh/smartapp-
-turn-off-with-motion-with-threshold)
+[casper-gh/smartapp-turn-off-with-motion-with-threshold](https://github.com/casper-gh/smartapp-turn-off-with-motion-with-threshold)
 
 [castlecole/SmartApps](https://github.com/castlecole/SmartApps)
 
@@ -857,8 +796,7 @@ turn-off-with-motion-with-threshold)
 
 [ccsturgi/smrtthng-modesettings](https://github.com/ccsturgi/smrtthng-modesettings)
 
-[cdatwood/SmartThings-Total-Connect-Sensor-Update](https://github.com/cdatwood/SmartThings-Tota
-l-Connect-Sensor-Update)
+[cdatwood/SmartThings-Total-Connect-Sensor-Update](https://github.com/cdatwood/SmartThings-Total-Connect-Sensor-Update)
 
 [cetheridge30/SmartThings-Repo](https://github.com/cetheridge30/SmartThings-Repo)
 
@@ -870,8 +808,7 @@ l-Connect-Sensor-Update)
 
 [changmang2003/homebridge-smartthings](https://github.com/changmang2003/homebridge-smartthings)
 
-[chazmantir/SmartThings-RingFloodlightServer](https://github.com/chazmantir/SmartThings-RingFlo
-odlightServer)
+[chazmantir/SmartThings-RingFloodlightServer](https://github.com/chazmantir/SmartThings-RingFloodlightServer)
 
 [chhall1982/SmartThings_MyStuff](https://github.com/chhall1982/SmartThings_MyStuff)
 
@@ -881,8 +818,7 @@ odlightServer)
 
 [chriskooken/SmartThings](https://github.com/chriskooken/SmartThings)
 
-[christianmadden/smartthings-autophrases](https://github.com/christianmadden/smartthings-autoph
-rases)
+[christianmadden/smartthings-autophrases](https://github.com/christianmadden/smartthings-autophrases)
 
 [christianmadden/smartthings-home-api](https://github.com/christianmadden/smartthings-home-api)
 
@@ -892,23 +828,21 @@ rases)
 
 [ckairinc/SmartThingsLocalCK](https://github.com/ckairinc/SmartThingsLocalCK)
 
-[cl0udninja/raspberrypi.smartthings](https://github.com/cl0udninja/raspberrypi.smartthings)    
+[cl0udninja/raspberrypi.smartthings](https://github.com/cl0udninja/raspberrypi.smartthings)
 
-[clang13/hunter-douglas-powerview](https://github.com/clang13/hunter-douglas-powerview)        
+[clang13/hunter-douglas-powerview](https://github.com/clang13/hunter-douglas-powerview)
 
 [clipman/Smartthings](https://github.com/clipman/Smartthings)
 
-[coolcatiger/smartthings_sonos_door_left_open](https://github.com/coolcatiger/smartthings_sonos
-_door_left_open)
+[coolcatiger/smartthings_sonos_door_left_open](https://github.com/coolcatiger/smartthings_sonos_door_left_open)
 
 [coolkev/smartthings-alarm](https://github.com/coolkev/smartthings-alarm)
 
-[copy-ninja/SmartThings_KabutoAlarmPanel](https://github.com/copy-ninja/SmartThings_KabutoAlarm
-Panel)
+[copy-ninja/SmartThings_KabutoAlarmPanel](https://github.com/copy-ninja/SmartThings_KabutoAlarmPanel)
 
-[copy-ninja/SmartThings_RainMachine](https://github.com/copy-ninja/SmartThings_RainMachine)    
+[copy-ninja/SmartThings_RainMachine](https://github.com/copy-ninja/SmartThings_RainMachine)
 
-[copy-ninja/SmartThings_RheemEcoNet](https://github.com/copy-ninja/SmartThings_RheemEcoNet)    
+[copy-ninja/SmartThings_RheemEcoNet](https://github.com/copy-ninja/SmartThings_RheemEcoNet)
 
 [copy-ninja/SmartThings_iComfort](https://github.com/copy-ninja/SmartThings_iComfort)
 
@@ -936,7 +870,7 @@ Panel)
 
 [csdozier/device-concord4](https://github.com/csdozier/device-concord4)
 
-[csdozier/device-nexia-thermostat](https://github.com/csdozier/device-nexia-thermostat)        
+[csdozier/device-nexia-thermostat](https://github.com/csdozier/device-nexia-thermostat)
 
 [csdozier/device-pioneer-vsx](https://github.com/csdozier/device-pioneer-vsx)
 
@@ -944,12 +878,11 @@ Panel)
 
 [cumpstey/Cwm.SmartThings](https://github.com/cumpstey/Cwm.SmartThings)
 
-[curtisc19/SmartThingsCoffeeGroovy](https://github.com/curtisc19/SmartThingsCoffeeGroovy)      
+[curtisc19/SmartThingsCoffeeGroovy](https://github.com/curtisc19/SmartThingsCoffeeGroovy)
 
 [cvpcs/smartthings](https://github.com/cvpcs/smartthings)
 
-[cyclingengineer/UpnpHomeAutomationBridge](https://github.com/cyclingengineer/UpnpHomeAutomatio
-nBridge)
+[cyclingengineer/UpnpHomeAutomationBridge](https://github.com/cyclingengineer/UpnpHomeAutomationBridge)
 
 [cznkane/HomeAutomation](https://github.com/cznkane/HomeAutomation)
 
@@ -963,7 +896,7 @@ nBridge)
 
 [dan-lambert/SmartThings](https://github.com/dan-lambert/SmartThings)
 
-[dan06/SmartThings---Vacation-Lights](https://github.com/dan06/SmartThings---Vacation-Lights)  
+[dan06/SmartThings---Vacation-Lights](https://github.com/dan06/SmartThings---Vacation-Lights)
 
 [dan06/SmartThings-Goodnight](https://github.com/dan06/SmartThings-Goodnight)
 
@@ -973,17 +906,15 @@ nBridge)
 
 [danielsjf/erocm123_SmartThingsPublic](https://github.com/danielsjf/erocm123_SmartThingsPublic)
 
-[dankraus/seinfeld-door-google-home-cast](https://github.com/dankraus/seinfeld-door-google-home
--cast)
+[dankraus/seinfeld-door-google-home-cast](https://github.com/dankraus/seinfeld-door-google-home-cast)
 
 [dannyc83/smartthings](https://github.com/dannyc83/smartthings)
 
-[danyulsan91/SmartThings-danyulsan91](https://github.com/danyulsan91/SmartThings-danyulsan91)  
+[danyulsan91/SmartThings-danyulsan91](https://github.com/danyulsan91/SmartThings-danyulsan91)
 
 [darinspivey/smartthings-apps](https://github.com/darinspivey/smartthings-apps)
 
-[dario-rossi/SmartThings-Personal-Library](https://github.com/dario-rossi/SmartThings-Personal-
-Library)
+[dario-rossi/SmartThings-Personal-Library](https://github.com/dario-rossi/SmartThings-Personal-Library)
 
 [darksun/st-lan-example](https://github.com/darksun/st-lan-example)
 
@@ -995,10 +926,9 @@ Library)
 
 [davglass/st-beacon-bacon](https://github.com/davglass/st-beacon-bacon)
 
-[davidbliss/SmartThings_Multi-switch](https://github.com/davidbliss/SmartThings_Multi-switch)  
+[davidbliss/SmartThings_Multi-switch](https://github.com/davidbliss/SmartThings_Multi-switch)
 
-[davidsalvadorpt/SmartThingsOutSystemsConnector](https://github.com/davidsalvadorpt/SmartThings
-OutSystemsConnector)
+[davidsalvadorpt/SmartThingsOutSystemsConnector](https://github.com/davidsalvadorpt/SmartThingsOutSystemsConnector)
 
 [dcm220/SmartThingsPublic](https://github.com/dcm220/SmartThingsPublic)
 
@@ -1008,12 +938,11 @@ OutSystemsConnector)
 
 [dedouard/SmartThingsPublic](https://github.com/dedouard/SmartThingsPublic)
 
-[densom/smartthings-elasticlogger](https://github.com/densom/smartthings-elasticlogger)        
+[densom/smartthings-elasticlogger](https://github.com/densom/smartthings-elasticlogger)
 
 [desertblade/Beddi_Connect](https://github.com/desertblade/Beddi_Connect)
 
-[devicebuilder/Blue_Iris_Server_for_ST](https://github.com/devicebuilder/Blue_Iris_Server_for_S
-T)
+[devicebuilder/Blue_Iris_Server_for_ST](https://github.com/devicebuilder/Blue_Iris_Server_for_ST)
 
 [dgem2015/SmartThingsPublic](https://github.com/dgem2015/SmartThingsPublic)
 
@@ -1061,45 +990,39 @@ T)
 
 [drandyhaas/SmartThingsPublic](https://github.com/drandyhaas/SmartThingsPublic)
 
-[drewski11/Is-Home-Secure-Smart-App](https://github.com/drewski11/Is-Home-Secure-Smart-App)    
+[drewski11/Is-Home-Secure-Smart-App](https://github.com/drewski11/Is-Home-Secure-Smart-App)
 
 [dsggregory/SmartThings](https://github.com/dsggregory/SmartThings)
 
-[dvanwinkle/smartapp.Modify-Nest-Presence-with-Hub-Status](https://github.com/dvanwinkle/smarta
-pp.Modify-Nest-Presence-with-Hub-Status)
+[dvanwinkle/smartapp.Modify-Nest-Presence-with-Hub-Status](https://github.com/dvanwinkle/smartapp.Modify-Nest-Presence-with-Hub-Status)
 
 [dwiller11/SmartThings](https://github.com/dwiller11/SmartThings)
 
 [eatonsn4/SmartthingsPrivate](https://github.com/eatonsn4/SmartthingsPrivate)
 
-[eddgrant/smartthings-bulb-energy-publisher](https://github.com/eddgrant/smartthings-bulb-energ
-y-publisher)
+[eddgrant/smartthings-bulb-energy-publisher](https://github.com/eddgrant/smartthings-bulb-energy-publisher)
 
 [ejluttmann/SmartThings](https://github.com/ejluttmann/SmartThings)
 
-[eliotstocker/SmartThings-LightPhysicalControl](https://github.com/eliotstocker/SmartThings-Lig
-htPhysicalControl)
+[eliotstocker/SmartThings-LightPhysicalControl](https://github.com/eliotstocker/SmartThings-LightPhysicalControl)
 
-[eliotstocker/SmartThings-SweetLights-App](https://github.com/eliotstocker/SmartThings-SweetLig
-hts-App)
+[eliotstocker/SmartThings-SweetLights-App](https://github.com/eliotstocker/SmartThings-SweetLights-App)
 
 [emoses/front-door-handler](https://github.com/emoses/front-door-handler)
 
-[emx2500/smartthings-auto-door-lock](https://github.com/emx2500/smartthings-auto-door-lock)    
+[emx2500/smartthings-auto-door-lock](https://github.com/emx2500/smartthings-auto-door-lock)
 
 [enishoca/SmartHoca](https://github.com/enishoca/SmartHoca)
 
 [enishoca/SmartThingsX](https://github.com/enishoca/SmartThingsX)
 
-[eprzenic/arduinoSmartthingsHomeSecurity](https://github.com/eprzenic/arduinoSmartthingsHomeSec
-urity)
+[eprzenic/arduinoSmartthingsHomeSecurity](https://github.com/eprzenic/arduinoSmartthingsHomeSecurity)
 
 [ericcirone/smartthings](https://github.com/ericcirone/smartthings)
 
 [ericmey/SmartThingsPublic](https://github.com/ericmey/SmartThingsPublic)
 
-[ericvitale/ST-Average-Temperature-Trigger](https://github.com/ericvitale/ST-Average-Temperatur
-e-Trigger)
+[ericvitale/ST-Average-Temperature-Trigger](https://github.com/ericvitale/ST-Average-Temperature-Trigger)
 
 [ericvitale/ST-Home-Notify](https://github.com/ericvitale/ST-Home-Notify)
 
@@ -1127,8 +1050,7 @@ e-Trigger)
 
 [eviljim/EviljimSmartThings](https://github.com/eviljim/EviljimSmartThings)
 
-[fanelectronico/SmartThings-DoorLeftOpen](https://github.com/fanelectronico/SmartThings-DoorLef
-tOpen)
+[fanelectronico/SmartThings-DoorLeftOpen](https://github.com/fanelectronico/SmartThings-DoorLeftOpen)
 
 [fastdots/homeAutoWithST](https://github.com/fastdots/homeAutoWithST)
 
@@ -1136,15 +1058,13 @@ tOpen)
 
 [fdlarsen/SmartThingsPublic](https://github.com/fdlarsen/SmartThingsPublic)
 
-[felix-manea/st-smartapp-keep-heating-low-while-away](https://github.com/felix-manea/st-smartap
-p-keep-heating-low-while-away)
+[felix-manea/st-smartapp-keep-heating-low-while-away](https://github.com/felix-manea/st-smartapp-keep-heating-low-while-away)
 
 [fenfir/smart-apps](https://github.com/fenfir/smart-apps)
 
 [feri113/SmartThingsPublic](https://github.com/feri113/SmartThingsPublic)
 
-[findmory/smartthings-sensor_open_close](https://github.com/findmory/smartthings-sensor_open_cl
-ose)
+[findmory/smartthings-sensor_open_close](https://github.com/findmory/smartthings-sensor_open_close)
 
 [fireboy1919/MiThings](https://github.com/fireboy1919/MiThings)
 
@@ -1192,8 +1112,7 @@ ose)
 
 [gamviel/SmartThingsPublic](https://github.com/gamviel/SmartThingsPublic)
 
-[garrywma/LightWaveRFSmartthingsLocalDeviceCreator](https://github.com/garrywma/LightWaveRFSmar
-tthingsLocalDeviceCreator)
+[garrywma/LightWaveRFSmartthingsLocalDeviceCreator](https://github.com/garrywma/LightWaveRFSmartthingsLocalDeviceCreator)
 
 [garyrobert/SmartThings](https://github.com/garyrobert/SmartThings)
 
@@ -1229,8 +1148,7 @@ tthingsLocalDeviceCreator)
 
 [guineau/SmartThingsPublic](https://github.com/guineau/SmartThingsPublic)
 
-[gurase/SmartThings-Home-Assistant-Connect](https://github.com/gurase/SmartThings-Home-Assistan
-t-Connect)
+[gurase/SmartThings-Home-Assistant-Connect](https://github.com/gurase/SmartThings-Home-Assistant-Connect)
 
 [haackr/SwitchOnWhenActive](https://github.com/haackr/SwitchOnWhenActive)
 
@@ -1238,8 +1156,7 @@ t-Connect)
 
 [hailbopp/MyRE](https://github.com/hailbopp/MyRE)
 
-[halaszvarig/wemos-smartthings-integration](https://github.com/halaszvarig/wemos-smartthings-in
-tegration)
+[halaszvarig/wemos-smartthings-integration](https://github.com/halaszvarig/wemos-smartthings-integration)
 
 [hallomarco/SmartThingsPublic](https://github.com/hallomarco/SmartThingsPublic)
 
@@ -1255,8 +1172,7 @@ tegration)
 
 [herbcarroll/Smartthings](https://github.com/herbcarroll/Smartthings)
 
-[hermskee/-The-hermskee-SmartThingsPublic](https://github.com/hermskee/-The-hermskee-SmartThing
-sPublic)
+[hermskee/-The-hermskee-SmartThingsPublic](https://github.com/hermskee/-The-hermskee-SmartThingsPublic)
 
 [holden86/mySmartthings](https://github.com/holden86/mySmartthings)
 
@@ -1280,13 +1196,13 @@ sPublic)
 
 [iamstev/dehumidifier-helper](https://github.com/iamstev/dehumidifier-helper)
 
-[iamstev/smartthings-iamstev-other](https://github.com/iamstev/smartthings-iamstev-other)      
+[iamstev/smartthings-iamstev-other](https://github.com/iamstev/smartthings-iamstev-other)
 
 [iamstev/tv-times](https://github.com/iamstev/tv-times)
 
 [ianisms/st-ianisms](https://github.com/ianisms/st-ianisms)
 
-[ibm-watson-iot/gateway-smartthings](https://github.com/ibm-watson-iot/gateway-smartthings)    
+[ibm-watson-iot/gateway-smartthings](https://github.com/ibm-watson-iot/gateway-smartthings)
 
 [ibwilbur/Old_SmartThingsPublic](https://github.com/ibwilbur/Old_SmartThingsPublic)
 
@@ -1306,8 +1222,7 @@ sPublic)
 
 [invent81/SmartThingsGarageDoor](https://github.com/invent81/SmartThingsGarageDoor)
 
-[iot-dsa-v2/dslink-java-v2-smartthings](https://github.com/iot-dsa-v2/dslink-java-v2-smartthing
-s)
+[iot-dsa-v2/dslink-java-v2-smartthings](https://github.com/iot-dsa-v2/dslink-java-v2-smartthings)
 
 [iprak/SmartThings](https://github.com/iprak/SmartThings)
 
@@ -1315,7 +1230,7 @@ s)
 
 [irion7/BaywebSmartThings](https://github.com/irion7/BaywebSmartThings)
 
-[irishhuggiebear/SmartThingsPublic-](https://github.com/irishhuggiebear/SmartThingsPublic-)    
+[irishhuggiebear/SmartThingsPublic-](https://github.com/irishhuggiebear/SmartThingsPublic-)
 
 [isriam/smartthings-alarmserver](https://github.com/isriam/smartthings-alarmserver)
 
@@ -1331,27 +1246,23 @@ s)
 
 [jakekapellen/SmartThings](https://github.com/jakekapellen/SmartThings)
 
-[jamesandariese/SmartThingsLIFXSceneButtons](https://github.com/jamesandariese/SmartThingsLIFXS
-ceneButtons)
+[jamesandariese/SmartThingsLIFXSceneButtons](https://github.com/jamesandariese/SmartThingsLIFXSceneButtons)
 
-[jamesandariese/SmartThingsNeptuneApex](https://github.com/jamesandariese/SmartThingsNeptuneApe
-x)
+[jamesandariese/SmartThingsNeptuneApex](https://github.com/jamesandariese/SmartThingsNeptuneApex)
 
 [jamiekowalczik/dash-smartthings](https://github.com/jamiekowalczik/dash-smartthings)
 
 [jangellx/SmartApp-AutoOffice](https://github.com/jangellx/SmartApp-AutoOffice)
 
-[jangellx/SmartApp-WasherDryerDone](https://github.com/jangellx/SmartApp-WasherDryerDone)      
+[jangellx/SmartApp-WasherDryerDone](https://github.com/jangellx/SmartApp-WasherDryerDone)
 
-[jangellx/SmartApp-WaterHeaterSchedule](https://github.com/jangellx/SmartApp-WaterHeaterSchedul
-e)
+[jangellx/SmartApp-WaterHeaterSchedule](https://github.com/jangellx/SmartApp-WaterHeaterSchedule)
 
 [jarrodmoss/wally-smartthings](https://github.com/jarrodmoss/wally-smartthings)
 
-[jason0x43/homebridge-smartthings](https://github.com/jason0x43/homebridge-smartthings)        
+[jason0x43/homebridge-smartthings](https://github.com/jason0x43/homebridge-smartthings)
 
-[jasonreid0873/SmartThings-LightwaverRF](https://github.com/jasonreid0873/SmartThings-Lightwave
-rRF)
+[jasonreid0873/SmartThings-LightwaverRF](https://github.com/jasonreid0873/SmartThings-LightwaverRF)
 
 [jasonrwise77/My-SmartThings](https://github.com/jasonrwise77/My-SmartThings)
 
@@ -1379,16 +1290,15 @@ rRF)
 
 [jcCarroll/motion-nightlight](https://github.com/jcCarroll/motion-nightlight)
 
-[jcbrooks92/SmartThingsCode-HomeAuto](https://github.com/jcbrooks92/SmartThingsCode-HomeAuto)  
+[jcbrooks92/SmartThingsCode-HomeAuto](https://github.com/jcbrooks92/SmartThingsCode-HomeAuto)
 
 [jcharr1/smartthings-jcharr1](https://github.com/jcharr1/smartthings-jcharr1)
 
 [jcholpuch/SmartThings](https://github.com/jcholpuch/SmartThings)
 
-[jcrumley/SmartThings.MessageIfOpenTooLong](https://github.com/jcrumley/SmartThings.MessageIfOp
-enTooLong)
+[jcrumley/SmartThings.MessageIfOpenTooLong](https://github.com/jcrumley/SmartThings.MessageIfOpenTooLong)
 
-[jdetmold/JeffSmartThingsPersonal](https://github.com/jdetmold/JeffSmartThingsPersonal)        
+[jdetmold/JeffSmartThingsPersonal](https://github.com/jdetmold/JeffSmartThingsPersonal)
 
 [jeanbeaulieu/Smartthings](https://github.com/jeanbeaulieu/Smartthings)
 
@@ -1428,7 +1338,7 @@ enTooLong)
 
 [jimmarks/SmartThingsPublic](https://github.com/jimmarks/SmartThingsPublic)
 
-[jimmyfortinx/my-smartthings-repo](https://github.com/jimmyfortinx/my-smartthings-repo)        
+[jimmyfortinx/my-smartthings-repo](https://github.com/jimmyfortinx/my-smartthings-repo)
 
 [jjensn/MiThings](https://github.com/jjensn/MiThings)
 
@@ -1442,20 +1352,19 @@ enTooLong)
 
 [jmaxxz/particle-smartthings](https://github.com/jmaxxz/particle-smartthings)
 
-[jnewland/airfoil-api-smartthings](https://github.com/jnewland/airfoil-api-smartthings)        
+[jnewland/airfoil-api-smartthings](https://github.com/jnewland/airfoil-api-smartthings)
 
 [jnguyenc/SmartThings-WebApp](https://github.com/jnguyenc/SmartThings-WebApp)
 
 [joebeeson/SmartThings](https://github.com/joebeeson/SmartThings)
 
-[joeharrison714/fpp-smartthings-app](https://github.com/joeharrison714/fpp-smartthings-app)    
+[joeharrison714/fpp-smartthings-app](https://github.com/joeharrison714/fpp-smartthings-app)
 
 [joeltamkin/smartthings-ups](https://github.com/joeltamkin/smartthings-ups)
 
-[johnvey/smartthings-hd-powerview](https://github.com/johnvey/smartthings-hd-powerview)        
+[johnvey/smartthings-hd-powerview](https://github.com/johnvey/smartthings-hd-powerview)
 
-[johnwest80/Smartthings-To-X10-Smartapp](https://github.com/johnwest80/Smartthings-To-X10-Smart
-app)
+[johnwest80/Smartthings-To-X10-Smartapp](https://github.com/johnwest80/Smartthings-To-X10-Smartapp)
 
 [jojanantony/SHMHelper](https://github.com/jojanantony/SHMHelper)
 
@@ -1531,20 +1440,17 @@ app)
 
 [justinlhudson/SmartThings](https://github.com/justinlhudson/SmartThings)
 
-[justinmiller61/smartthings-someones-home](https://github.com/justinmiller61/smartthings-someon
-es-home)
+[justinmiller61/smartthings-someones-home](https://github.com/justinmiller61/smartthings-someones-home)
 
 [justintime/SmartThings-at](https://github.com/justintime/SmartThings-at)
 
-[jv-syntaxerror/smartthings-hid-edge](https://github.com/jv-syntaxerror/smartthings-hid-edge)  
+[jv-syntaxerror/smartthings-hid-edge](https://github.com/jv-syntaxerror/smartthings-hid-edge)
 
-[jwoodrich/SmartThings-AmbientWeatherGateway](https://github.com/jwoodrich/SmartThings-AmbientW
-eatherGateway)
+[jwoodrich/SmartThings-AmbientWeatherGateway](https://github.com/jwoodrich/SmartThings-AmbientWeatherGateway)
 
 [jwoodrich/SmartThings-SleepIQ](https://github.com/jwoodrich/SmartThings-SleepIQ)
 
-[jwoodrich/SmartThings-WeeWxWeatherStation](https://github.com/jwoodrich/SmartThings-WeeWxWeath
-erStation)
+[jwoodrich/SmartThings-WeeWxWeatherStation](https://github.com/jwoodrich/SmartThings-WeeWxWeatherStation)
 
 [jwsf/device-type.arduino-8-way-relay](https://github.com/jwsf/device-type.arduino-8-way-relay)
 
@@ -1560,7 +1466,7 @@ erStation)
 
 [kdorff/smartapps](https://github.com/kdorff/smartapps)
 
-[kdurrance/SmartThingsRobotCleaning](https://github.com/kdurrance/SmartThingsRobotCleaning)    
+[kdurrance/SmartThingsRobotCleaning](https://github.com/kdurrance/SmartThingsRobotCleaning)
 
 [kearygriffin/MySmarthings](https://github.com/kearygriffin/MySmarthings)
 
@@ -1578,8 +1484,7 @@ erStation)
 
 [kirkbrownOK/SensiThermostat](https://github.com/kirkbrownOK/SensiThermostat)
 
-[kirkbrownOK/SevereWeatherAlertControlLights](https://github.com/kirkbrownOK/SevereWeatherAlert
-ControlLights)
+[kirkbrownOK/SevereWeatherAlertControlLights](https://github.com/kirkbrownOK/SevereWeatherAlertControlLights)
 
 [kirkbrownOK/doorSensorDeMUX](https://github.com/kirkbrownOK/doorSensorDeMUX)
 
@@ -1601,7 +1506,7 @@ ControlLights)
 
 [konnected-io/konnected-security](https://github.com/konnected-io/konnected-security)
 
-[konnected-io/noonlight-smartthings](https://github.com/konnected-io/noonlight-smartthings)    
+[konnected-io/noonlight-smartthings](https://github.com/konnected-io/noonlight-smartthings)
 
 [konni/SmartThings](https://github.com/konni/SmartThings)
 
@@ -1611,7 +1516,7 @@ ControlLights)
 
 [kqyang/smartthings](https://github.com/kqyang/smartthings)
 
-[kris-schaller/SmartApps-Community](https://github.com/kris-schaller/SmartApps-Community)      
+[kris-schaller/SmartApps-Community](https://github.com/kris-schaller/SmartApps-Community)
 
 [krlaframboise/OtherHub2](https://github.com/krlaframboise/OtherHub2)
 
@@ -1623,7 +1528,7 @@ ControlLights)
 
 [kshenoy/SmartThings](https://github.com/kshenoy/SmartThings)
 
-[kuestess/smartthings-insteonconnect](https://github.com/kuestess/smartthings-insteonconnect)  
+[kuestess/smartthings-insteonconnect](https://github.com/kuestess/smartthings-insteonconnect)
 
 [kvwillis311/Smarthings-Devices](https://github.com/kvwillis311/Smarthings-Devices)
 
@@ -1635,15 +1540,13 @@ ControlLights)
 
 [lap33733/Smartthings](https://github.com/lap33733/Smartthings)
 
-[lcsandman8301/SmartThingsIntegrations](https://github.com/lcsandman8301/SmartThingsIntegration
-s)
+[lcsandman8301/SmartThingsIntegrations](https://github.com/lcsandman8301/SmartThingsIntegrations)
 
 [leftmans/smartthings](https://github.com/leftmans/smartthings)
 
 [lehighkid/ST-Collection](https://github.com/lehighkid/ST-Collection)
 
-[leo212/tami4edge-smarthings-unofficial](https://github.com/leo212/tami4edge-smarthings-unoffic
-ial)
+[leo212/tami4edge-smarthings-unofficial](https://github.com/leo212/tami4edge-smarthings-unofficial)
 
 [leofig-rj/ST_WiLight](https://github.com/leofig-rj/ST_WiLight)
 
@@ -1657,23 +1560,21 @@ ial)
 
 [liebman/SmartThings](https://github.com/liebman/SmartThings)
 
-[lite2073/SmartThingsPublic-garyd9](https://github.com/lite2073/SmartThingsPublic-garyd9)      
+[lite2073/SmartThingsPublic-garyd9](https://github.com/lite2073/SmartThingsPublic-garyd9)
 
-[ljbotero/Hubitat-SmartWaterHeater](https://github.com/ljbotero/Hubitat-SmartWaterHeater)      
+[ljbotero/Hubitat-SmartWaterHeater](https://github.com/ljbotero/Hubitat-SmartWaterHeater)
 
 [llinder/smartapps](https://github.com/llinder/smartapps)
 
-[lmosenk/Vacation-Lights-Director-ST-port](https://github.com/lmosenk/Vacation-Lights-Director-
-ST-port)
+[lmosenk/Vacation-Lights-Director-ST-port](https://github.com/lmosenk/Vacation-Lights-Director-ST-port)
 
-[lomarb/homebridge-smartthings-tonesto7](https://github.com/lomarb/homebridge-smartthings-tones
-to7)
+[lomarb/homebridge-smartthings-tonesto7](https://github.com/lomarb/homebridge-smartthings-tonesto7)
 
 [loonass/ST-repo](https://github.com/loonass/ST-repo)
 
 [loughmiller/sleepShiftSwitch](https://github.com/loughmiller/sleepShiftSwitch)
 
-[louisjackson66/SmartThingsPublic](https://github.com/louisjackson66/SmartThingsPublic)        
+[louisjackson66/SmartThingsPublic](https://github.com/louisjackson66/SmartThingsPublic)
 
 [loverso/SmartThingsDev](https://github.com/loverso/SmartThingsDev)
 
@@ -1699,7 +1600,7 @@ to7)
 
 [madebyshanon/smartthings](https://github.com/madebyshanon/smartthings)
 
-[madenwala/SmartThings-WindowMonitor](https://github.com/madenwala/SmartThings-WindowMonitor)  
+[madenwala/SmartThings-WindowMonitor](https://github.com/madenwala/SmartThings-WindowMonitor)
 
 [magimat/Smartthings](https://github.com/magimat/Smartthings)
 
@@ -1715,8 +1616,7 @@ to7)
 
 [mark-netalico/smartthings](https://github.com/mark-netalico/smartthings)
 
-[markeadkins/IP-Temp-Humidity-Sensor---Smartthings](https://github.com/markeadkins/IP-Temp-Humi
-dity-Sensor---Smartthings)
+[markeadkins/IP-Temp-Humidity-Sensor---Smartthings](https://github.com/markeadkins/IP-Temp-Humidity-Sensor---Smartthings)
 
 [marqelme/SmartThingsEnhanced](https://github.com/marqelme/SmartThingsEnhanced)
 
@@ -1728,7 +1628,7 @@ dity-Sensor---Smartthings)
 
 [mattbrain/Cytech-Comfort](https://github.com/mattbrain/Cytech-Comfort)
 
-[mattemsley/SmartThings-MattEdits](https://github.com/mattemsley/SmartThings-MattEdits)        
+[mattemsley/SmartThings-MattEdits](https://github.com/mattemsley/SmartThings-MattEdits)
 
 [mattglet/smartthings](https://github.com/mattglet/smartthings)
 
@@ -1736,8 +1636,7 @@ dity-Sensor---Smartthings)
 
 [mattw01/HubitatHarmony](https://github.com/mattw01/HubitatHarmony)
 
-[mattw01/HubitatToSTNotificationPusher](https://github.com/mattw01/HubitatToSTNotificationPushe
-r)
+[mattw01/HubitatToSTNotificationPusher](https://github.com/mattw01/HubitatToSTNotificationPusher)
 
 [mattw01/STBitBarApp](https://github.com/mattw01/STBitBarApp)
 
@@ -1747,7 +1646,7 @@ r)
 
 [mbarnathan/Synchronized-Dimming](https://github.com/mbarnathan/Synchronized-Dimming)
 
-[mbeckner554/SmartThingsGarageDoor](https://github.com/mbeckner554/SmartThingsGarageDoor)      
+[mbeckner554/SmartThingsGarageDoor](https://github.com/mbeckner554/SmartThingsGarageDoor)
 
 [mbeynon/SmartThings](https://github.com/mbeynon/SmartThings)
 
@@ -1757,16 +1656,15 @@ r)
 
 [mccorrym/smart-things](https://github.com/mccorrym/smart-things)
 
-[mcdunning/PiGarageDoorController](https://github.com/mcdunning/PiGarageDoorController)        
+[mcdunning/PiGarageDoorController](https://github.com/mcdunning/PiGarageDoorController)
 
-[mcgarryplace-michael/SmartThingsPublic](https://github.com/mcgarryplace-michael/SmartThingsPub
-lic)
+[mcgarryplace-michael/SmartThingsPublic](https://github.com/mcgarryplace-michael/SmartThingsPublic)
 
 [mciastek/smartthings](https://github.com/mciastek/smartthings)
 
 [meckelangelo/STFanLEDFixer](https://github.com/meckelangelo/STFanLEDFixer)
 
-[meckelangelo/STHeaterACAutomation](https://github.com/meckelangelo/STHeaterACAutomation)      
+[meckelangelo/STHeaterACAutomation](https://github.com/meckelangelo/STHeaterACAutomation)
 
 [merpius/SmartThings-merpius](https://github.com/merpius/SmartThings-merpius)
 
@@ -1778,24 +1676,19 @@ lic)
 
 [mich013/iotdb-smartthings](https://github.com/mich013/iotdb-smartthings)
 
-[michaelansel/UniFi-Controller-SmartThings](https://github.com/michaelansel/UniFi-Controller-Sm
-artThings)
+[michaelansel/UniFi-Controller-SmartThings](https://github.com/michaelansel/UniFi-Controller-SmartThings)
 
 [michaelphilip/SmartThings](https://github.com/michaelphilip/SmartThings)
 
-[midyear66/SmartApp-HVAC-circ-with-switch](https://github.com/midyear66/SmartApp-HVAC-circ-with
--switch)
+[midyear66/SmartApp-HVAC-circ-with-switch](https://github.com/midyear66/SmartApp-HVAC-circ-with-switch)
 
-[midyear66/SmartApp-Limit-Temperature-Settings](https://github.com/midyear66/SmartApp-Limit-Tem
-perature-Settings)
+[midyear66/SmartApp-Limit-Temperature-Settings](https://github.com/midyear66/SmartApp-Limit-Temperature-Settings)
 
-[midyear66/SmartApp-Poll-with-HTTP-GET](https://github.com/midyear66/SmartApp-Poll-with-HTTP-GE
-T)
+[midyear66/SmartApp-Poll-with-HTTP-GET](https://github.com/midyear66/SmartApp-Poll-with-HTTP-GET)
 
 [mihamil/SmartThings_Hamilton](https://github.com/mihamil/SmartThings_Hamilton)
 
-[mike-schiller/smartthings-button-routine-control](https://github.com/mike-schiller/smartthings
--button-routine-control)
+[mike-schiller/smartthings-button-routine-control](https://github.com/mike-schiller/smartthings-button-routine-control)
 
 [mikea/smartthings-metrics](https://github.com/mikea/smartthings-metrics)
 
@@ -1819,7 +1712,7 @@ T)
 
 [mkrapivner/SmartThingsLegrand](https://github.com/mkrapivner/SmartThingsLegrand)
 
-[mlasevich/SmartThingsMirrorSwitch](https://github.com/mlasevich/SmartThingsMirrorSwitch)      
+[mlasevich/SmartThingsMirrorSwitch](https://github.com/mlasevich/SmartThingsMirrorSwitch)
 
 [mlosli/smartthings](https://github.com/mlosli/smartthings)
 
@@ -1837,8 +1730,7 @@ T)
 
 [mrmoorey/Control-Maximum-Volume](https://github.com/mrmoorey/Control-Maximum-Volume)
 
-[mrmoorey/Pause-Music-When-Motion-Stops](https://github.com/mrmoorey/Pause-Music-When-Motion-St
-ops)
+[mrmoorey/Pause-Music-When-Motion-Stops](https://github.com/mrmoorey/Pause-Music-When-Motion-Stops)
 
 [mrnohr/my-smartapps](https://github.com/mrnohr/my-smartapps)
 
@@ -1848,14 +1740,13 @@ ops)
 
 [mtbeaver/SmartThingsDev](https://github.com/mtbeaver/SmartThingsDev)
 
-[murphybrendan/smartthings_logger](https://github.com/murphybrendan/smartthings_logger)        
+[murphybrendan/smartthings_logger](https://github.com/murphybrendan/smartthings_logger)
 
 [mvevitsis/helloworld](https://github.com/mvevitsis/helloworld)
 
-[mvgrimes/smartthings-multi-thermostat](https://github.com/mvgrimes/smartthings-multi-thermosta
-t)
+[mvgrimes/smartthings-multi-thermostat](https://github.com/mvgrimes/smartthings-multi-thermostat)
 
-[mvgrimes/smartthings-super-sprinker](https://github.com/mvgrimes/smartthings-super-sprinker)  
+[mvgrimes/smartthings-super-sprinker](https://github.com/mvgrimes/smartthings-super-sprinker)
 
 [mwren/st-datalogger](https://github.com/mwren/st-datalogger)
 
@@ -1881,7 +1772,7 @@ t)
 
 [natekspencer/LitterRobotManager](https://github.com/natekspencer/LitterRobotManager)
 
-[natekspencer/VivintSmartHomeManager](https://github.com/natekspencer/VivintSmartHomeManager)  
+[natekspencer/VivintSmartHomeManager](https://github.com/natekspencer/VivintSmartHomeManager)
 
 [nateober/SmartThings](https://github.com/nateober/SmartThings)
 
@@ -1923,8 +1814,7 @@ t)
 
 [nsslabcuus/IoTMon](https://github.com/nsslabcuus/IoTMon)
 
-[nutechsoftware/alarmdecoder-smartthings](https://github.com/nutechsoftware/alarmdecoder-smartt
-hings)
+[nutechsoftware/alarmdecoder-smartthings](https://github.com/nutechsoftware/alarmdecoder-smartthings)
 
 [nuttytree/Nutty-SmartThings](https://github.com/nuttytree/Nutty-SmartThings)
 
@@ -1944,8 +1834,7 @@ hings)
 
 [oliversierrab/SmartApps](https://github.com/oliversierrab/SmartApps)
 
-[oliverspryn/smartthings-arduino-message-sender](https://github.com/oliverspryn/smartthings-ard
-uino-message-sender)
+[oliverspryn/smartthings-arduino-message-sender](https://github.com/oliverspryn/smartthings-arduino-message-sender)
 
 [oliverspryn/smartthings-mirror](https://github.com/oliverspryn/smartthings-mirror)
 
@@ -1967,15 +1856,13 @@ uino-message-sender)
 
 [osvadimos/smartthings](https://github.com/osvadimos/smartthings)
 
-[otaviojr/node-red-contrib-smartthings](https://github.com/otaviojr/node-red-contrib-smartthing
-s)
+[otaviojr/node-red-contrib-smartthings](https://github.com/otaviojr/node-red-contrib-smartthings)
 
 [oukene/smart-switch](https://github.com/oukene/smart-switch)
 
 [ovonick/SmartThingsOvonick](https://github.com/ovonick/SmartThingsOvonick)
 
-[pakmanwg/smartthings-thermostat-timer](https://github.com/pakmanwg/smartthings-thermostat-time
-r)
+[pakmanwg/smartthings-thermostat-timer](https://github.com/pakmanwg/smartthings-thermostat-timer)
 
 [panealy/SmartThings](https://github.com/panealy/SmartThings)
 
@@ -1983,7 +1870,7 @@ r)
 
 [paruljain/smartthings](https://github.com/paruljain/smartthings)
 
-[patrickkpowell/SmartThingsPublic](https://github.com/patrickkpowell/SmartThingsPublic)        
+[patrickkpowell/SmartThingsPublic](https://github.com/patrickkpowell/SmartThingsPublic)
 
 [paul591/SmartThings](https://github.com/paul591/SmartThings)
 
@@ -1995,14 +1882,13 @@ r)
 
 [pbianco/SmartThingsPublic](https://github.com/pbianco/SmartThingsPublic)
 
-[pcartwright81/pcartwright81-SmartThings](https://github.com/pcartwright81/pcartwright81-SmartT
-hings)
+[pcartwright81/pcartwright81-SmartThings](https://github.com/pcartwright81/pcartwright81-SmartThings)
 
 [pepemontana7/smartthings](https://github.com/pepemontana7/smartthings)
 
 [petermajor/SmartThings](https://github.com/petermajor/SmartThings)
 
-[peternixon/SmartThings-PeterNixon](https://github.com/peternixon/SmartThings-PeterNixon)      
+[peternixon/SmartThings-PeterNixon](https://github.com/peternixon/SmartThings-PeterNixon)
 
 [phetherton/smartapps](https://github.com/phetherton/smartapps)
 
@@ -2010,21 +1896,17 @@ hings)
 
 [philh30/smartthings](https://github.com/philh30/smartthings)
 
-[philippegravel/SmartThingsPublic](https://github.com/philippegravel/SmartThingsPublic)        
+[philippegravel/SmartThingsPublic](https://github.com/philippegravel/SmartThingsPublic)
 
-[philippeportesppo/AirMentorPro2_SmartThings](https://github.com/philippeportesppo/AirMentorPro
-2_SmartThings)
+[philippeportesppo/AirMentorPro2_SmartThings](https://github.com/philippeportesppo/AirMentorPro2_SmartThings)
 
-[philippeportesppo/Dump_Temperature_Battery_Level_SmartThings](https://github.com/philippeporte
-sppo/Dump_Temperature_Battery_Level_SmartThings)
+[philippeportesppo/Dump_Temperature_Battery_Level_SmartThings](https://github.com/philippeportesppo/Dump_Temperature_Battery_Level_SmartThings)
 
-[philippeportesppo/HumidityLightControl](https://github.com/philippeportesppo/HumidityLightCont
-rol)
+[philippeportesppo/HumidityLightControl](https://github.com/philippeportesppo/HumidityLightControl)
 
 [philippeportesppo/Smartapp](https://github.com/philippeportesppo/Smartapp)
 
-[philippeportesppo/WeatherUndergroundWeb_SmartThings](https://github.com/philippeportesppo/Weat
-herUndergroundWeb_SmartThings)
+[philippeportesppo/WeatherUndergroundWeb_SmartThings](https://github.com/philippeportesppo/WeatherUndergroundWeb_SmartThings)
 
 [phiz118/smartthings](https://github.com/phiz118/smartthings)
 
@@ -2034,13 +1916,11 @@ herUndergroundWeb_SmartThings)
 
 [piXelPoivre/smartthings-ipx800](https://github.com/piXelPoivre/smartthings-ipx800)
 
-[pjoyce42/limitlessled-smartthings-local-control](https://github.com/pjoyce42/limitlessled-smar
-tthings-local-control)
+[pjoyce42/limitlessled-smartthings-local-control](https://github.com/pjoyce42/limitlessled-smartthings-local-control)
 
 [pkananen/SmartThingsApps](https://github.com/pkananen/SmartThingsApps)
 
-[pklokke/SmartThings-WiserSmartDevices](https://github.com/pklokke/SmartThings-WiserSmartDevice
-s)
+[pklokke/SmartThings-WiserSmartDevices](https://github.com/pklokke/SmartThings-WiserSmartDevices)
 
 [pkmindworks/PKSmartThings](https://github.com/pkmindworks/PKSmartThings)
 
@@ -2052,8 +1932,7 @@ s)
 
 [pocc/toggl_smartapp](https://github.com/pocc/toggl_smartapp)
 
-[poindexter12/arduino-smartthings-relay](https://github.com/poindexter12/arduino-smartthings-re
-lay)
+[poindexter12/arduino-smartthings-relay](https://github.com/poindexter12/arduino-smartthings-relay)
 
 [project802/smartthings](https://github.com/project802/smartthings)
 
@@ -2089,16 +1968,13 @@ lay)
 
 [raven42/smartthings](https://github.com/raven42/smartthings)
 
-[rayzurbock/SmartThings-BigTalker-Orig](https://github.com/rayzurbock/SmartThings-BigTalker-Ori
-g)
+[rayzurbock/SmartThings-BigTalker-Orig](https://github.com/rayzurbock/SmartThings-BigTalker-Orig)
 
-[rayzurbock/SmartThings-DoorLeftOpen](https://github.com/rayzurbock/SmartThings-DoorLeftOpen)  
+[rayzurbock/SmartThings-DoorLeftOpen](https://github.com/rayzurbock/SmartThings-DoorLeftOpen)
 
-[rayzurbock/SmartThings-LightControlViaMotion](https://github.com/rayzurbock/SmartThings-LightC
-ontrolViaMotion)
+[rayzurbock/SmartThings-LightControlViaMotion](https://github.com/rayzurbock/SmartThings-LightControlViaMotion)
 
-[rayzurbock/SmartThings-home-on-valid-code-unlock](https://github.com/rayzurbock/SmartThings-ho
-me-on-valid-code-unlock)
+[rayzurbock/SmartThings-home-on-valid-code-unlock](https://github.com/rayzurbock/SmartThings-home-on-valid-code-unlock)
 
 [rboy1/smartthings-1](https://github.com/rboy1/smartthings-1)
 
@@ -2116,8 +1992,7 @@ me-on-valid-code-unlock)
 
 [rhyolight/smartthings-apps](https://github.com/rhyolight/smartthings-apps)
 
-[riaanbotes/smartthings-datastore-collector](https://github.com/riaanbotes/smartthings-datastor
-e-collector)
+[riaanbotes/smartthings-datastore-collector](https://github.com/riaanbotes/smartthings-datastore-collector)
 
 [richardwhite00/rw-st_anything](https://github.com/richardwhite00/rw-st_anything)
 
@@ -2125,8 +2000,7 @@ e-collector)
 
 [rkroboth/GarageDoorOpenAlert](https://github.com/rkroboth/GarageDoorOpenAlert)
 
-[rkroboth/smartthings_lan_service_manager](https://github.com/rkroboth/smartthings_lan_service_
-manager)
+[rkroboth/smartthings_lan_service_manager](https://github.com/rkroboth/smartthings_lan_service_manager)
 
 [rleonard55/rleonard-SmartThings](https://github.com/rleonard55/rleonard-SmartThings)
 
@@ -2136,8 +2010,7 @@ manager)
 
 [rllynch/smartthings_cli](https://github.com/rllynch/smartthings_cli)
 
-[rllynch/smartthings_unlock_on_arrival](https://github.com/rllynch/smartthings_unlock_on_arriva
-l)
+[rllynch/smartthings_unlock_on_arrival](https://github.com/rllynch/smartthings_unlock_on_arrival)
 
 [robbiet480/SmartThingsThings](https://github.com/robbiet480/SmartThingsThings)
 
@@ -2161,7 +2034,7 @@ l)
 
 [rodtoll/smartthings-swann-nvr](https://github.com/rodtoll/smartthings-swann-nvr)
 
-[rogersmj/st-door-alert-after-dark](https://github.com/rogersmj/st-door-alert-after-dark)      
+[rogersmj/st-door-alert-after-dark](https://github.com/rogersmj/st-door-alert-after-dark)
 
 [rosswerks/SmartThings](https://github.com/rosswerks/SmartThings)
 
@@ -2171,8 +2044,7 @@ l)
 
 [rtorchia/DSC-Envisalink](https://github.com/rtorchia/DSC-Envisalink)
 
-[rtorchia/Smartthings-Hikvision-Events](https://github.com/rtorchia/Smartthings-Hikvision-Event
-s)
+[rtorchia/Smartthings-Hikvision-Events](https://github.com/rtorchia/Smartthings-Hikvision-Events)
 
 [rtorchia/rti_audio](https://github.com/rtorchia/rti_audio)
 
@@ -2204,8 +2076,7 @@ s)
 
 [sandro2304/SmartThingsPublic](https://github.com/sandro2304/SmartThingsPublic)
 
-[sashamobilesm/paulsheldon-SmartThings-PS](https://github.com/sashamobilesm/paulsheldon-SmartTh
-ings-PS)
+[sashamobilesm/paulsheldon-SmartThings-PS](https://github.com/sashamobilesm/paulsheldon-SmartThings-PS)
 
 [sbdobrescu/SmartThings](https://github.com/sbdobrescu/SmartThings)
 
@@ -2213,19 +2084,17 @@ ings-PS)
 
 [scrampker/Club-Steve-Auto-Lock](https://github.com/scrampker/Club-Steve-Auto-Lock)
 
-[seldonsmule/smartthings-heated-mats-by-temp](https://github.com/seldonsmule/smartthings-heated
--mats-by-temp)
+[seldonsmule/smartthings-heated-mats-by-temp](https://github.com/seldonsmule/smartthings-heated-mats-by-temp)
 
 [sethaniel/SethsSmartThings](https://github.com/sethaniel/SethsSmartThings)
 
-[sgnagnarella/Smartthings_TotalConnect_SmartApp](https://github.com/sgnagnarella/Smartthings_To
-talConnect_SmartApp)
+[sgnagnarella/Smartthings_TotalConnect_SmartApp](https://github.com/sgnagnarella/Smartthings_TotalConnect_SmartApp)
 
 [sgupta999/GuptaSmartthingsRepository](https://github.com/sgupta999/GuptaSmartthingsRepository)
 
 [sgupta999/gupta-st-devices-smartapps](https://github.com/sgupta999/gupta-st-devices-smartapps)
 
-[shackrat/SmartThings-by-Shackrat](https://github.com/shackrat/SmartThings-by-Shackrat)        
+[shackrat/SmartThings-by-Shackrat](https://github.com/shackrat/SmartThings-by-Shackrat)
 
 [shadowjig/Stoplight](https://github.com/shadowjig/Stoplight)
 
@@ -2233,15 +2102,13 @@ talConnect_SmartApp)
 
 [shamlian/SmartThingsExperiments](https://github.com/shamlian/SmartThingsExperiments)
 
-[shaunsbennett/SmartThingsCollection](https://github.com/shaunsbennett/SmartThingsCollection)  
+[shaunsbennett/SmartThingsCollection](https://github.com/shaunsbennett/SmartThingsCollection)
 
-[sheikhsphere/SmartApp-smart-humidifier-dehumidifier](https://github.com/sheikhsphere/SmartApp-
-smart-humidifier-dehumidifier)
+[sheikhsphere/SmartApp-smart-humidifier-dehumidifier](https://github.com/sheikhsphere/SmartApp-smart-humidifier-dehumidifier)
 
 [shepner/SmartThings](https://github.com/shepner/SmartThings)
 
-[shinznatkid/Samsung-PowerBot-Vacuum-Fixed](https://github.com/shinznatkid/Samsung-PowerBot-Vac
-uum-Fixed)
+[shinznatkid/Samsung-PowerBot-Vacuum-Fixed](https://github.com/shinznatkid/Samsung-PowerBot-Vacuum-Fixed)
 
 [showpointer/Smartthings](https://github.com/showpointer/Smartthings)
 
@@ -2261,29 +2128,25 @@ uum-Fixed)
 
 [slushpupie/MySmartThings](https://github.com/slushpupie/MySmartThings)
 
-[smartthings-users/smartapp.off-without-motion](https://github.com/smartthings-users/smartapp.o
-ff-without-motion)
+[smartthings-users/smartapp.off-without-motion](https://github.com/smartthings-users/smartapp.off-without-motion)
 
-[smartthings-users/smartapp.security-night-light](https://github.com/smartthings-users/smartapp
-.security-night-light)
+[smartthings-users/smartapp.security-night-light](https://github.com/smartthings-users/smartapp.security-night-light)
 
 [smeisner/SmartThings](https://github.com/smeisner/SmartThings)
 
-[snailium/SmartThings_Multi_Way_Switch](https://github.com/snailium/SmartThings_Multi_Way_Switc
-h)
+[snailium/SmartThings_Multi_Way_Switch](https://github.com/snailium/SmartThings_Multi_Way_Switch)
 
-[snakedog116/SmartThings-Snakedog116](https://github.com/snakedog116/SmartThings-Snakedog116)  
+[snakedog116/SmartThings-Snakedog116](https://github.com/snakedog116/SmartThings-Snakedog116)
 
-[snike3/SmartThings-Random-Tinkery](https://github.com/snike3/SmartThings-Random-Tinkery)      
+[snike3/SmartThings-Random-Tinkery](https://github.com/snike3/SmartThings-Random-Tinkery)
 
-[snowake4me/smartthings-api-smartapp](https://github.com/snowake4me/smartthings-api-smartapp)  
+[snowake4me/smartthings-api-smartapp](https://github.com/snowake4me/smartthings-api-smartapp)
 
 [spapadim/smartthings](https://github.com/spapadim/smartthings)
 
 [speteor/Code-Examples-For-Build](https://github.com/speteor/Code-Examples-For-Build)
 
-[spindance/spindance.imp-smartthings.bridge](https://github.com/spindance/spindance.imp-smartth
-ings.bridge)
+[spindance/spindance.imp-smartthings.bridge](https://github.com/spindance/spindance.imp-smartthings.bridge)
 
 [spinn360/Smartthings](https://github.com/spinn360/Smartthings)
 
@@ -2299,11 +2162,11 @@ ings.bridge)
 
 [sshort/sshort-smartthings](https://github.com/sshort/sshort-smartthings)
 
-[ssilence5/Simplisafe-SmartThings](https://github.com/ssilence5/Simplisafe-SmartThings)        
+[ssilence5/Simplisafe-SmartThings](https://github.com/ssilence5/Simplisafe-SmartThings)
 
 [st-swanny/smartthings](https://github.com/st-swanny/smartthings)
 
-[stanculescum/aplicatii-SmartThings](https://github.com/stanculescum/aplicatii-SmartThings)    
+[stanculescum/aplicatii-SmartThings](https://github.com/stanculescum/aplicatii-SmartThings)
 
 [star114/Smartthings](https://github.com/star114/Smartthings)
 
@@ -2321,18 +2184,17 @@ ings.bridge)
 
 [stevenhaddox/SmartThings-Custom](https://github.com/stevenhaddox/SmartThings-Custom)
 
-[sticks18/Fibaro-RGBW-Group-Controller](https://github.com/sticks18/Fibaro-RGBW-Group-Controlle
-r)
+[sticks18/Fibaro-RGBW-Group-Controller](https://github.com/sticks18/Fibaro-RGBW-Group-Controller)
 
 [sticks18/Lightify-Bulb](https://github.com/sticks18/Lightify-Bulb)
 
-[sticks18/Stateless-Scene-via-Echo](https://github.com/sticks18/Stateless-Scene-via-Echo)      
+[sticks18/Stateless-Scene-via-Echo](https://github.com/sticks18/Stateless-Scene-via-Echo)
 
 [strelitzia123/SmartThings](https://github.com/strelitzia123/SmartThings)
 
 [strifejester/smartthingsapps](https://github.com/strifejester/smartthingsapps)
 
-[summitbri/smartthings-customization](https://github.com/summitbri/smartthings-customization)  
+[summitbri/smartthings-customization](https://github.com/summitbri/smartthings-customization)
 
 [surge919/SmartThings-Surge919-2](https://github.com/surge919/SmartThings-Surge919-2)
 
@@ -2346,13 +2208,11 @@ r)
 
 [tamaracks/smartthings-other](https://github.com/tamaracks/smartthings-other)
 
-[tamttt/Smartthings-Arduino-RF-Ceiling-Fan](https://github.com/tamttt/Smartthings-Arduino-RF-Ce
-iling-Fan)
+[tamttt/Smartthings-Arduino-RF-Ceiling-Fan](https://github.com/tamttt/Smartthings-Arduino-RF-Ceiling-Fan)
 
-[tamttt/Smartthings-Arduino-RF-Ceiling-Fan-with-Etekcity-Switch](https://github.com/tamttt/Smar
-tthings-Arduino-RF-Ceiling-Fan-with-Etekcity-Switch)
+[tamttt/Smartthings-Arduino-RF-Ceiling-Fan-with-Etekcity-Switch](https://github.com/tamttt/Smartthings-Arduino-RF-Ceiling-Fan-with-Etekcity-Switch)
 
-[tbeseda/smartthings-auth-example](https://github.com/tbeseda/smartthings-auth-example)        
+[tbeseda/smartthings-auth-example](https://github.com/tbeseda/smartthings-auth-example)
 
 [tcjennings/SmartThingsPrivate](https://github.com/tcjennings/SmartThingsPrivate)
 
@@ -2364,28 +2224,25 @@ tthings-Arduino-RF-Ceiling-Fan-with-Etekcity-Switch)
 
 [tekathome/smartthings](https://github.com/tekathome/smartthings)
 
-[tenstartups/smartthings-dsc-bridge](https://github.com/tenstartups/smartthings-dsc-bridge)    
+[tenstartups/smartthings-dsc-bridge](https://github.com/tenstartups/smartthings-dsc-bridge)
 
-[tenstartups/smartthings-isy-bridge](https://github.com/tenstartups/smartthings-isy-bridge)    
+[tenstartups/smartthings-isy-bridge](https://github.com/tenstartups/smartthings-isy-bridge)
 
 [terickson/SmartThingsPublic](https://github.com/terickson/SmartThingsPublic)
 
-[teropikala/smartthings-switch-slave](https://github.com/teropikala/smartthings-switch-slave)  
+[teropikala/smartthings-switch-slave](https://github.com/teropikala/smartthings-switch-slave)
 
 [terry2012/STAnalyzer](https://github.com/terry2012/STAnalyzer)
 
 [terumorimura/SmartThings](https://github.com/terumorimura/SmartThings)
 
-[teuteuguy/Cloud-Based_TP-Link-to-SmartThings-Integration](https://github.com/teuteuguy/Cloud-B
-ased_TP-Link-to-SmartThings-Integration)
+[teuteuguy/Cloud-Based_TP-Link-to-SmartThings-Integration](https://github.com/teuteuguy/Cloud-Based_TP-Link-to-SmartThings-Integration)
 
 [tfatykhov/WinkRedNode](https://github.com/tfatykhov/WinkRedNode)
 
-[tfrevert/SmartThings_Humidity_Control](https://github.com/tfrevert/SmartThings_Humidity_Contro
-l)
+[tfrevert/SmartThings_Humidity_Control](https://github.com/tfrevert/SmartThings_Humidity_Control)
 
-[tfrevert/SmartThings_Numerous_Integration](https://github.com/tfrevert/SmartThings_Numerous_In
-tegration)
+[tfrevert/SmartThings_Numerous_Integration](https://github.com/tfrevert/SmartThings_Numerous_Integration)
 
 [tguerena/SmartThings](https://github.com/tguerena/SmartThings)
 
@@ -2399,14 +2256,13 @@ tegration)
 
 [therkilt/SmartThings-Projects](https://github.com/therkilt/SmartThings-Projects)
 
-[thermalatom1/SmartThingsDSCAlarm](https://github.com/thermalatom1/SmartThingsDSCAlarm)        
+[thermalatom1/SmartThingsDSCAlarm](https://github.com/thermalatom1/SmartThingsDSCAlarm)
 
 [thi517/SmartThingsPublic](https://github.com/thi517/SmartThingsPublic)
 
 [thomasruns/know-lock-status](https://github.com/thomasruns/know-lock-status)
 
-[thomasruns/smartthings-monitor-power-meter](https://github.com/thomasruns/smartthings-monitor-
-power-meter)
+[thomasruns/smartthings-monitor-power-meter](https://github.com/thomasruns/smartthings-monitor-power-meter)
 
 [thrashernb/smartthings-9](https://github.com/thrashernb/smartthings-9)
 
@@ -2416,8 +2272,7 @@ power-meter)
 
 [tierneykev/SmartThings_New](https://github.com/tierneykev/SmartThings_New)
 
-[ties1980/Sonos-controller-by-Zigbee-Dimmer---Samsung-Smartthings](https://github.com/ties1980/
-Sonos-controller-by-Zigbee-Dimmer---Samsung-Smartthings)
+[ties1980/Sonos-controller-by-Zigbee-Dimmer---Samsung-Smartthings](https://github.com/ties1980/Sonos-controller-by-Zigbee-Dimmer---Samsung-Smartthings)
 
 [tillig/SmartThings](https://github.com/tillig/SmartThings)
 
@@ -2429,7 +2284,7 @@ Sonos-controller-by-Zigbee-Dimmer---Samsung-Smartthings)
 
 [tmdevries/HomeAutomationWithST](https://github.com/tmdevries/HomeAutomationWithST)
 
-[tmleafs/life360-smartthings-refresh](https://github.com/tmleafs/life360-smartthings-refresh)  
+[tmleafs/life360-smartthings-refresh](https://github.com/tmleafs/life360-smartthings-refresh)
 
 [tmleafs/smartthingsdoorbell](https://github.com/tmleafs/smartthingsdoorbell)
 
@@ -2449,23 +2304,21 @@ Sonos-controller-by-Zigbee-Dimmer---Samsung-Smartthings)
 
 [tomriv77/stapp_autolock](https://github.com/tomriv77/stapp_autolock)
 
-[tomriv77/stapp_water_power_monitor](https://github.com/tomriv77/stapp_water_power_monitor)    
+[tomriv77/stapp_water_power_monitor](https://github.com/tomriv77/stapp_water_power_monitor)
 
 [tonesto7/SmartThings-tonesto7-public](https://github.com/tonesto7/SmartThings-tonesto7-public)
 
-[tonesto7/homebridge-smartthings-tonesto7](https://github.com/tonesto7/homebridge-smartthings-t
-onesto7)
+[tonesto7/homebridge-smartthings-tonesto7](https://github.com/tonesto7/homebridge-smartthings-tonesto7)
 
 [tonesto7/nest-manager](https://github.com/tonesto7/nest-manager)
 
 [tonysebion/SmartThings](https://github.com/tonysebion/SmartThings)
 
-[topshelf-code/Smartthings-Custom-Alarm-with-Entry-Exit-Delay](https://github.com/topshelf-code
-/Smartthings-Custom-Alarm-with-Entry-Exit-Delay)
+[topshelf-code/Smartthings-Custom-Alarm-with-Entry-Exit-Delay](https://github.com/topshelf-code/Smartthings-Custom-Alarm-with-Entry-Exit-Delay)
 
 [tracmo/quantum_xim_light_smartthings](https://github.com/tracmo/quantum_xim_light_smartthings)
 
-[tracmo/quantum_xim_plug_smartthings](https://github.com/tracmo/quantum_xim_plug_smartthings)  
+[tracmo/quantum_xim_plug_smartthings](https://github.com/tracmo/quantum_xim_plug_smartthings)
 
 [travcam/smart_trends](https://github.com/travcam/smart_trends)
 
@@ -2493,7 +2346,7 @@ onesto7)
 
 [tylerfreckmann/smartthings](https://github.com/tylerfreckmann/smartthings)
 
-[tynet94/SmartThingsSegmentLogger](https://github.com/tynet94/SmartThingsSegmentLogger)        
+[tynet94/SmartThingsSegmentLogger](https://github.com/tynet94/SmartThingsSegmentLogger)
 
 [tyoung3/BlinkLight](https://github.com/tyoung3/BlinkLight)
 
@@ -2509,18 +2362,17 @@ onesto7)
 
 [vikashvarma/SmartThings](https://github.com/vikashvarma/SmartThings)
 
-[vikashvarma/smartThings-Thermostat](https://github.com/vikashvarma/smartThings-Thermostat)    
+[vikashvarma/smartThings-Thermostat](https://github.com/vikashvarma/smartThings-Thermostat)
 
 [vonrandy/SmartThings](https://github.com/vonrandy/SmartThings)
 
 [voodoojello/smartthings](https://github.com/voodoojello/smartthings)
 
-[vzakharchenko/smartthings-phevctl](https://github.com/vzakharchenko/smartthings-phevctl)      
+[vzakharchenko/smartthings-phevctl](https://github.com/vzakharchenko/smartthings-phevctl)
 
-[vzakharchenko/smartthings-phone-presence-sensor](https://github.com/vzakharchenko/smartthings-
-phone-presence-sensor)
+[vzakharchenko/smartthings-phone-presence-sensor](https://github.com/vzakharchenko/smartthings-phone-presence-sensor)
 
-[vzakharchenko/smartthings-sonoff](https://github.com/vzakharchenko/smartthings-sonoff)        
+[vzakharchenko/smartthings-sonoff](https://github.com/vzakharchenko/smartthings-sonoff)
 
 [wallbasher/SmartPiGarageDoor](https://github.com/wallbasher/SmartPiGarageDoor)
 
@@ -2532,24 +2384,21 @@ phone-presence-sensor)
 
 [weikai/WeikaiSmartThings](https://github.com/weikai/WeikaiSmartThings)
 
-[whatificould/SmartThingsIRBridgeLCD](https://github.com/whatificould/SmartThingsIRBridgeLCD)  
+[whatificould/SmartThingsIRBridgeLCD](https://github.com/whatificould/SmartThingsIRBridgeLCD)
 
-[windsurfer99/ST_StreamLabs-Water-Flow](https://github.com/windsurfer99/ST_StreamLabs-Water-Flo
-w)
+[windsurfer99/ST_StreamLabs-Water-Flow](https://github.com/windsurfer99/ST_StreamLabs-Water-Flow)
 
 [wjarrettc/smartapps](https://github.com/wjarrettc/smartapps)
 
 [wyattearp/STBatteryMonitor](https://github.com/wyattearp/STBatteryMonitor)
 
-[xdumaine/smartthings-auto-close-garage-doors](https://github.com/xdumaine/smartthings-auto-clo
-se-garage-doors)
+[xdumaine/smartthings-auto-close-garage-doors](https://github.com/xdumaine/smartthings-auto-close-garage-doors)
 
-[xdumaine/smartthings-autolock-doors](https://github.com/xdumaine/smartthings-autolock-doors)  
+[xdumaine/smartthings-autolock-doors](https://github.com/xdumaine/smartthings-autolock-doors)
 
 [xnetdude/SmartThingsPublic](https://github.com/xnetdude/SmartThingsPublic)
 
-[xtreme22886/SmartThings_UniFi-Presence-Sensor](https://github.com/xtreme22886/SmartThings_UniF
-i-Presence-Sensor)
+[xtreme22886/SmartThings_UniFi-Presence-Sensor](https://github.com/xtreme22886/SmartThings_UniFi-Presence-Sensor)
 
 [xxKeoxx/green-thermostat](https://github.com/xxKeoxx/green-thermostat)
 
@@ -2567,8 +2416,7 @@ i-Presence-Sensor)
 
 [yostinso/groovy-parser-ts](https://github.com/yostinso/groovy-parser-ts)
 
-[yracine/DSC-Integration-with-Arduino-Mega-Shield-RS-232](https://github.com/yracine/DSC-Integr
-ation-with-Arduino-Mega-Shield-RS-232)
+[yracine/DSC-Integration-with-Arduino-Mega-Shield-RS-232](https://github.com/yracine/DSC-Integration-with-Arduino-Mega-Shield-RS-232)
 
 [yracine/device-type-myNext](https://github.com/yracine/device-type-myNext)
 
@@ -2580,8 +2428,7 @@ ation-with-Arduino-Mega-Shield-RS-232)
 
 [zeusmoss/SmartThings.HueColorCycle](https://github.com/zeusmoss/SmartThings.HueColorCycle)
 
-[zeusmoss/SmartThings.SmartIndicatorNightlight](https://github.com/zeusmoss/SmartThings.SmartIn
-dicatorNightlight)
+[zeusmoss/SmartThings.SmartIndicatorNightlight](https://github.com/zeusmoss/SmartThings.SmartIndicatorNightlight)
 
 [zhangquan0126/bruntblinds-smarthings](https://github.com/zhangquan0126/bruntblinds-smarthings)
 
@@ -2606,5 +2453,4 @@ dicatorNightlight)
 [zub3ra/mailbox](https://github.com/zub3ra/mailbox)
 
 [zzarbi/smartthings](https://github.com/zzarbi/smartthings)
-
 
