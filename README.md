@@ -15,7 +15,7 @@ The **SmartAppZoo** dataset contains a total of 3,526 SmartThings apps, includin
 
 ## Conversion
 
-1. We developed a converter script [**ConvertGroovyToNodeJS.ipynb**](https://github.com/SmartAppZoo/ConvertGroovyToNodeJS/blob/main/ConvertGroovyToNodeJS.ipynb) that converts Groovy SmartApps into Node.js SmartApps.
+1. We developed a converter tool [**ConvertGroovyToNodeJS.ipynb**](https://github.com/SmartAppZoo/ConvertGroovyToNodeJS/blob/main/ConvertGroovyToNodeJS.ipynb) that converts Groovy SmartApps into Node.js SmartApps.
 
 2. The converter can translate the fixed-format parts of Groovy SmartApps, such as definition/preference blocks, subscription/schedule functions, and device commands. from Groovy to Node.js. However, the conversion of other user-defined functions requires the help of the research community. 
 
