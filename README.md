@@ -21,6 +21,20 @@ The **SmartAppZoo** dataset contains a total of 3,526 SmartThings apps, includin
 
 3. Currently, the converter can accurately translate approximately 50 simple Groovy SmartApps into Node.js SmartApps. The converted results are located in the repository [**ConvertGroovyToNodeJS**](https://github.com/SmartAppZoo/ConvertGroovyToNodeJS).
 
+## Citing this work
+
+``` 
+@inproceedings{SmartAppZoo,
+title = {Poster Abstract: SmartAppZoo: A Repository of SmartThings Apps for IoT Benchmarking},
+author = {Wang, Zhaohui and Luo, Bo and Li, Fengjun},
+booktitle = {Proceedings of the 8th ACM/IEEE Conference on Internet of Things Design and Implementation},
+year = {2023},
+location = {San Antonio, TX, USA},
+pages = {448–449},
+series = {IoTDI '23}
+}
+``` 
+
 ## Warning
 
 When visiting the [**Github Third-Party**](Github&#32;Third-Party) folder via a browser, you may receive the following warning:
